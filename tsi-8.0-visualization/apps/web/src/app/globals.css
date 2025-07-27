@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --quantum: #00ffff;
+  --biological: #00ff00;
+  --consciousness: #ff00ff;
+  --holographic: #ffff00;
+}
+
+body {
+  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.glow {
+  box-shadow: 0 0 20px var(--quantum);
+}
+
+.glow-biological {
+  box-shadow: 0 0 20px var(--biological);
+}
+
+.glow-consciousness {
+  box-shadow: 0 0 20px var(--consciousness);
+}
+
+.glow-holographic {
+  box-shadow: 0 0 20px var(--holographic);
+}
