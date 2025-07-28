@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Janikowski"
+    given-names: "Piotr Zdzislaw"
+title: "Theory of Conscious Informational Determination (TSI 8.0)"
+version: 8.0.0
+date-released: 2025-07-29
+repository-code: "https://github.com/piopio314/THEORY-OF-CONSCIOUS-INFORMATIONAL-DETERMINATION"
+license: CC-BY-4.0
+type: "research-work"
+abstract: >
+  A comprehensive theoretical framework connecting consciousness, 
+  information theory, quantum mechanics, and biological systems 
+  through mathematical formalism and experimental predictions.
+keywords:
+  - consciousness
+  - quantum theory
+  - information theory
+  - theoretical physics
+  - neurobiology
+references:
+  - type: website
+    url: "https://creativecommons.org/licenses/by/4.0/"
+    title: "Creative Commons Attribution 4.0 International License"
