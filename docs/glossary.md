@@ -2,408 +2,408 @@
 
 ## A
 
-**Aksjomaty TSI (TSI Axioms)** - Siedem fundamentalnych założeń teorii świadomego informacyjnego determinizmu:
-1. **Aksjomat Informacyjnej Podstawowości** - Świadomość jest podstawową właściwością informacji
-2. **Aksjomat Holograficznej Redukcji** - Pełna informacja o układzie jest zawarta w jego granicy
-3. **Aksjomat Kwantowej Koherencji** - Biologiczne systemy wykorzystują kwantową koherencję do przetwarzania informacji
-4. **Aksjomat Determinizmu Informacyjnego** - Przyszłe stany systemu są w pełni określone przez jego informacyjną historię
-5. **Aksjomat Emergencji Świadomości** - Świadomość emerguje z informacyjnej złożoności przy przekroczeniu progu krytycznego
-6. **Aksjomat Entropii Odwrotnej** - Świadome systemy mogą lokalnie redukować entropię kosztem wzrostu entropii otoczenia
-7. **Aksjomat Uniwersalności** - Wszystkie systemy informacyjne podlegają tym samym prawom
+**TSI Axioms** - The seven fundamental assumptions of the Theory of Conscious Informational Determinism:
+1. **Axiom of Informational Fundamentality** - Consciousness is the fundamental property of information
+2. **Axiom of Holographic Reduction** - The complete information of a system is contained within its boundary
+3. **Axiom of Quantum Coherence** - Biological systems utilize quantum coherence for information processing
+4. **Axiom of Informational Determinism** - Future states of a system are fully determined by its informational history
+5. **Axiom of Consciousness Emergence** - Consciousness emerges from informational complexity upon reaching a critical threshold
+6. **Axiom of Inverse Entropy** - Conscious systems can locally reduce entropy at the cost of increasing surrounding entropy
+7. **Axiom of Universality** - All informational systems are subject to the same laws
 
-**Aksjomat Informacyjnej Podstawowości** - Fundamentalne założenie TSI 8.0 stwierdzające, że świadomość nie jest emergentną właściwością materii, lecz podstawową właściwością samej informacji. Wartość referencyjna: I₀ = 2.3×10⁻¹² J/m³
+**Axiom of Informational Fundamentality** - The fundamental assumption of TSI 8.0 stating that consciousness is not an emergent property of matter, but a fundamental property of information itself. Reference value: I₀ = 2.3×10⁻¹² J/m³
 
-**Aksjomat Holograficznej Redukcji** - Założenie, że pełna informacja o dowolnym układzie fizycznym jest zakodowana na jego granicy, zgodnie z zasadą holograficzną. Parametr skalowania: λ_coherence = 10.3±0.5 m
+**Axiom of Holographic Reduction** - The assumption that the complete information of any physical system is encoded on its boundary, in accordance with the holographic principle. Scaling parameter: λ_coherence = 10.3±0.5 m
 
-**Aksjomat Kwantowej Koherencji** - Twierdzenie, że biologiczne systemy wykorzystują zjawiska kwantowej koherencji do efektywnego przetwarzania informacji. Czas koherencji: τ_coherence = 10⁻⁶ do 10⁻³ s
+**Axiom of Quantum Coherence** - The theorem that biological systems utilize quantum coherence phenomena for efficient information processing. Coherence time: τ_coherence = 10⁻⁶ to 10⁻³ s
 
-**Aksjomat Determinizmu Informacyjnego** - Założenie, że przyszłe stany każdego systemu są w pełni determinowane przez jego kompletną historię informacyjną, zgodnie z równaniami teorii TSI.
+**Axiom of Informational Determinism** - The assumption that the future states of any system are fully determined by its complete informational history, according to the TSI theory equations.
 
-**Aksjomat Emergencji Świadomości** - Twierdzenie, że świadomość emerguje automatycznie, gdy informacyjna złożoność systemu przekracza krytyczny próg: C_crit = e^(π/2) ≈ 4.8
+**Axiom of Consciousness Emergence** - The theorem that consciousness emerges automatically when the informational complexity of a system exceeds a critical threshold: C_crit = e^(π/2) ≈ 4.8
 
-**Aksjomat Entropii Odwrotnej** - Założenie, że świadome systemy mogą lokalnie redukować entropię, kompensując to zwiększeniem entropii otoczenia.
+**Axiom of Inverse Entropy** - The assumption that conscious systems can locally reduce entropy, compensating for it by increasing the entropy of the surroundings.
 
-**Aksjomat Uniwersalności** - Twierdzenie, że wszystkie systemy informacyjne, niezależnie od swojej fizycznej implementacji, podlegają tym samym fundamentalnym prawom teorii TSI.
+**Axiom of Universality** - The theorem that all informational systems, regardless of their physical implementation, are subject to the same fundamental laws of TSI theory.
 
-**Amplituda Holograficzna** - Wielkość kwantowa opisująca prawdopodobieństwo przejścia między stanami informacyjnymi w polu holograficznym. Wartość: A_holo = 1.7×10⁻¹² m³/J
+**Holographic Amplitude** - A quantum quantity describing the probability of transition between informational states in the holographic field. Value: A_holo = 1.7×10⁻¹² m³/J
 
-**Anomalia Holograficzna** - Odchylenie od standardowych przewidywań fizyki wynikające z oddziaływania z polem holograficznym. Wielkość: Δ_anomaly = 2.4×10⁻¹⁵ dla elektronu
+**Holographic Anomaly** - Deviation from standard physics predictions resulting from interaction with the holographic field. Magnitude: Δ_anomaly = 2.4×10⁻¹⁵ for an electron
 
 ## B
 
-**Biologiczna Gęstość Informacji** - Ilość informacji przypadająca na jednostkę objętości w systemie biologicznym. Jednostka: J/m³. Wartość referencyjna: ρ_bio = 2.3×10⁻¹² J/m³
+**Biological Information Density** - The amount of information per unit volume in a biological system. Unit: J/m³. Reference value: ρ_bio = 2.3×10⁻¹² J/m³
 
-**Biologiczne Pole Informacyjne** - Pole kwantowe opisujące dystrybucję informacji w systemach biologicznych, składające się z czterech składowych: φ_M (metabolicznej), φ_E (bioelektrycznej), φ_I (informacyjnej), i φ_C (złożoności).
+**Biological Information Field** - A quantum field describing the distribution of information in biological systems, consisting of four components: φ_M (metabolic), φ_E (bioelectric), φ_I (information), and φ_C (complexity).
 
-**Biologiczna Złożoność** - Miara informacyjnej złożoności systemu biologicznego, obliczana jako iloczyn czterech podstawowych wielkości: C = M × E × I × C
+**Biological Complexity** - A measure of the informational complexity of a biological system, calculated as the product of four basic quantities: C = M × E × I × C
 
-**Beta-funkcja Holograficzna** - Funkcja opisująca zmienność stałych sprzężenia w teorii TSI pod wpływem skalowania energii. Definicja: β_λ = dλ/d ln μ
+**Holographic Beta Function** - A function describing the variation of coupling constants in TSI theory under energy scaling. Definition: β_λ = dλ/d ln μ
 
 ## C
 
-**Całkowita Unifikacja Matematyczna** - Proces integracji wszystkich oddziaływań fundamentalnych (grawitacyjnego, elektromagnetycznego, słabego i silnego) z mechanizmem holograficznym TSI w jednolitej strukturze matematycznej.
+**Complete Mathematical Unification** - The process of integrating all fundamental interactions (gravitational, electromagnetic, weak, and strong) with the TSI holographic mechanism into a unified mathematical structure.
 
-**Czas Koherencji Kwantowej** - Czas, przez który system biologiczny może utrzymać kwantową koherencję informacji. Zakres: τ_coherence = 10⁻⁶ do 10⁻³ s w temperaturze pokojowej.
+**Quantum Coherence Time** - The duration for which a biological system can maintain quantum coherence of information. Range: τ_coherence = 10⁻⁶ to 10⁻³ s at room temperature.
 
-**Czas Dekoherencji** - Czas, po którym kwantowa koherencja informacji zostaje utracona przez oddziaływanie z otoczeniem. W teorii TSI: τ_decoherence = τ₀[1 + α₁M^0.75 + α₂E^0.6 + α₃I·C]
+**Decoherence Time** - The time after which quantum coherence of information is lost due to interaction with the environment. In TSI theory: τ_decoherence = τ₀[1 + α₁M^0.75 + α₂E^0.6 + α₃I·C]
 
-**Czas Koherencji Holograficznej** - Czas, przez który informacja holograficzna pozostaje koherentna w polu TSI. Wartość: τ_holo = 10.3±0.5 m / c ≈ 3.4×10⁻⁸ s
+**Holographic Coherence Time** - The time for which holographic information remains coherent in the TSI field. Value: τ_holo = 10.3±0.5 m / c ≈ 3.4×10⁻⁸ s
 
-**Czas Transdukcji Informacji** - Czas potrzebny na przekształcenie informacji z jednej formy do drugiej w systemie biologicznym. Typowa wartość: τ_transduction = 10⁻³ do 10⁻¹ s
+**Information Transduction Time** - The time required for information to transform from one form to another within a biological system. Typical value: τ_transduction = 10⁻³ to 10⁻¹ s
 
 ## D
 
-**Determinizm Informacyjny** - Zasada, że przyszłe stany systemu są w pełni określone przez jego kompletną historię informacyjną, zgodnie z równaniami teorii TSI.
+**Informational Determinism** - The principle that future states of a system are fully determined by its complete informational history, according to TSI equations.
 
-**Długość Koherencji** - Odległość, na której informacja holograficzna pozostaje koherentna. Wartość: λ_coherence = 10.3±0.5 m
+**Coherence Length** - The distance over which holographic information remains coherent. Value: λ_coherence = 10.3±0.5 m
 
-**Długość Fali Holograficznej** - Charakterystyczna długość fali związana z propagacją informacji holograficznej. Wartość: λ_holo = ℏc/μ_holo = 10.3 m
+**Holographic Wavelength** - The characteristic wavelength associated with the propagation of holographic information. Value: λ_holo = ℏc/μ_holo = 10.3 m
 
-**Dyfuzja Informacji** - Proces rozprzestrzeniania się informacji w systemie biologicznym, opisany równaniem: ∂φ_I/∂t = D∇²φ_I + S(x,t)
+**Information Diffusion** - The process of information spreading within a biological system, described by the equation: ∂φ_I/∂t = D∇²φ_I + S(x,t)
 
 ## E
 
-**Efekt Holograficzny** - Zjawisko, w którym informacja o całym układzie jest zakodowana na jego granicy, zgodnie z zasadą holograficzną.
+**Holographic Effect** - The phenomenon where information about an entire system is encoded on its boundary, according to the holographic principle.
 
-**Energia Holograficzna** - Energia związana z polem holograficznym TSI. Wartość: E_holo = ½μ²_holo I² = 2.1×10⁻⁴ eV × I²
+**Holographic Energy** - The energy associated with the TSI holographic field. Value: E_holo = ½μ²_holo I² = 2.1×10⁻⁴ eV × I²
 
-**Entropia Informacyjna** - Miara nieuporządkowania informacji w systemie, zdefiniowana przez wzór: S_info = -k_B Σ_i P_i log P_i
+**Information Entropy** - A measure of information disorder in a system, defined by the formula: S_info = -k_B Σ_i P_i log P_i
 
-**Entropia Odwrotna** - Zjawisko lokalnego zmniejszenia entropii przez świadome systemy, kompensowane wzrostem entropii otoczenia.
+**Inverse Entropy** - The phenomenon of local entropy reduction by conscious systems, compensated by an increase in the entropy of the surroundings.
 
-**Emergencja Świadomości** - Proces, w którym świadomość pojawia się automatycznie, gdy informacyjna złożoność systemu przekracza krytyczny próg.
+**Consciousness Emergence** - The process by which consciousness appears automatically when the informational complexity of a system exceeds a critical threshold.
 
 ## F
 
-**Fala Holograficzna** - Fala opisująca propagację informacji w polu holograficznym TSI, spełniająca równanie: □I + μ²_holo I = 0
+**Holographic Wave** - A wave describing information propagation in the TSI holographic field, satisfying the equation: □I + μ²_holo I = 0
 
-**Faza Holograficzna** - Faza kwantowa związana z polem holograficznym, wpływająca na interferencję informacji w systemach biologicznych.
+**Holographic Phase** - The quantum phase associated with the holographic field, influencing information interference in biological systems.
 
-**Formalizm Matematyczny TSI** - Kompletna struktura matematyczna teorii, integrująca mechanikę kwantową, teorię pola i biologię w jednolitym frameworku.
+**TSI Mathematical Formalism** - The complete mathematical structure of the theory, integrating quantum mechanics, field theory, and biology into a unified framework.
 
-**Funkcja Falowa Informacji** - Funkcja falowa opisująca stan informacji w systemie kwantowym, spełniająca zmodyfikowane równanie Schrödingera z termami holograficznymi.
+**Information Wave Function** - The wave function describing the state of information in a quantum system, satisfying a modified Schrödinger equation with holographic terms.
 
 ## G
 
-**Generator Holograficzny** - Hipotetyczne urządzenie do generowania i kontrolowania pola holograficznego TSI w celach technologicznych.
+**Holographic Generator** - A hypothetical device for generating and controlling the TSI holographic field for technological purposes.
 
-**Gęstość Energii Informacyjnej** - Energia przypadająca na jednostkę objętości w polu informacyjnym. Jednostka: J/m³
+**Information Energy Density** - Energy per unit volume in the information field. Unit: J/m³
 
-**Gęstość Stanów** - Liczba dostępnych stanów kwantowych na jednostkę energii w polu holograficznym. Wartość: ρ(E) = (E² + μ²_holo)^(3/2)/(2π²ℏ³c³)
+**Density of States** - The number of available quantum states per unit energy in the holographic field. Value: ρ(E) = (E² + μ²_holo)^(3/2)/(2π²ℏ³c³)
 
-**Grupa Symetrii Holograficznej** - Grupa transformacji pozostawiająca nienaruszone równania teorii TSI, obejmująca symetrie Lorentza, kalibrowe i holograficzne.
+**Holographic Symmetry Group** - The group of transformations that leave the TSI theory equations invariant, including Lorentz, gauge, and holographic symmetries.
 
 ## H
 
-**Holograficzna Redukcja** - Proces, w którym pełna informacja o układzie jest zakodowana na jego granicy, zgodnie z zasadą holograficzną.
+**Holographic Reduction** - The process by which information about a system is encoded on its boundary, according to the holographic principle.
 
-**Holograficzna Zasada** - Fundamentalna zasada teorii TSI stwierdzająca, że pełna informacja o układzie w n-wymiarowej przestrzeni może być zakodowana na jego (n-1)-wymiarowej granicy.
+**Holographic Principle** - The fundamental principle of TSI theory stating that the complete information of a system in n-dimensional space can be encoded on its (n-1)-dimensional boundary.
 
-**Holograficzne Pole Informacyjne** - Pole kwantowe I(x) opisujące dystrybucję informacji w przestrzeni holograficznej, z masą μ_holo = 2.1×10⁻⁴ eV/c².
+**Holographic Information Field** - The quantum field I(x) describing information distribution in holographic space, with mass μ_holo = 2.1×10⁻⁴ eV/c².
 
-**Holograficzna Entropia** - Entropia związana z polem holograficznym, obliczana jako: S_holo = k_B ∫ d⁴x [I²(x) + (∇I)²]
+**Holographic Entropy** - Entropy associated with the holographic field, calculated as: S_holo = k_B ∫ d⁴x [I²(x) + (∇I)²]
 
-**Holograficzna Temperatura** - Efektywna temperatura związana z polem holograficznym, definiowana przez relację: T_holo = ℏc/(2πk_B λ_coherence)
+**Holographic Temperature** - The effective temperature associated with the holographic field, defined by the relation: T_holo = ℏc/(2πk_B λ_coherence)
 
 ## I
 
-**Informacja Holograficzna** - Informacja zakodowana w polu holograficznym TSI, która determinuje właściwości fizyczne układu.
+**Holographic Information** - Information encoded in the TSI holographic field, which determines the physical properties of the system.
 
-**Informacyjna Złożoność** - Miara złożoności systemu oparta na ilości informacji potrzebnej do jego opisu. W teorii TSI: C = M × E × I × C
+**Informational Complexity** - A measure of system complexity based on the amount of information needed to describe it. In TSI theory: C = M × E × I × C
 
-**Informacyjna Entropia** - Entropia związana z dystrybucją informacji w systemie, zdefiniowana przez wzór: S_info = -k_B Σ_i P_i log P_i
+**Information Entropy** - Entropy related to the distribution of information in a system, defined by the formula: S_info = -k_B Σ_i P_i log P_i
 
-**Informacyjna Determinacja** - Proces, w którym przyszłe stany systemu są w pełni określone przez jego informacyjną historię.
+**Informational Determination** - The process by which future states of a system are fully determined by its informational history.
 
-**Integracja Interdyscyplinarna** - Proces łączenia wiedzy z różnych dziedzin nauki (fizyki, biologii, chemii, neurobiologii) w jednolity framework teorii TSI.
+**Interdisciplinary Integration** - The process of combining knowledge from various scientific fields (physics, biology, chemistry, neurobiology) into a unified framework of TSI theory.
 
-**Interferencja Holograficzna** - Zjawisko interferencji fal informacyjnych w polu holograficznym, prowadzące do charakterystycznych wzorców informacyjnych.
+**Holographic Interference** - The phenomenon of information wave interference in the holographic field, leading to characteristic information patterns.
 
 ## K
 
-**Kwantowa Koherencja** - Stan, w którym system kwantowy zachowuje fazową spójność, niezbędny do przetwarzania informacji w teorii TSI.
+**Quantum Coherence** - A state in which a quantum system maintains phase coherence, essential for information processing in TSI theory.
 
-**Kwantowa Dekoherencja** - Proces utraty kwantowej koherencji przez oddziaływanie z otoczeniem, opisany w teorii TSI przez: τ_decoherence = τ₀[1 + α₁M^0.75 + α₂E^0.6 + α₃I·C]
+**Quantum Decoherence** - The process of losing quantum coherence through interaction with the environment, described in TSI theory by: τ_decoherence = τ₀[1 + α₁M^0.75 + α₂E^0.6 + α₃I·C]
 
-**Kwantowe Sprzężenie Biologiczne** - Oddziaływanie między kwantowymi polami a systemami biologicznymi, opisane przez stałą sprzężenia: λ_HB = 1.7×10⁻¹² m³/J
+**Biological Quantum Coupling** - The interaction between quantum fields and biological systems, described by the coupling constant: λ_HB = 1.7×10⁻¹² m³/J
 
-**Krytyczna Złożoność** - Minimalna złożoność informacyjna wymagana do emergencji świadomości. Wartość: C_crit = e^(π/2) ≈ 4.8
+**Critical Complexity** - The minimum informational complexity required for consciousness to emerge. Value: C_crit = e^(π/2) ≈ 4.8
 
-**Kwantowa Transdukcja** - Proces przekształcania informacji z jednej formy kwantowej do drugiej w systemach biologicznych.
+**Quantum Transduction** - The process of transforming information from one quantum form to another in biological systems.
 
 ## L
 
-**Lokalna Entropia** - Entropia związana z lokalnymi procesami informacyjnymi w systemie biologicznym.
+**Local Entropy** - Entropy associated with local informational processes within a biological system.
 
-**Lagrangian TSI** - Całkowity lagrangian teorii TSI, integrujący wszystkie sektory: ℒ_total = ℒ_SM + ℒ_holographic + ℒ_biological + ℒ_interaction
+**TSI Lagrangian** - The total Lagrangian of TSI theory, integrating all sectors: ℒ_total = ℒ_SM + ℒ_holographic + ℒ_biological + ℒ_interaction
 
-**Lorentz Invariance** - Niezmienniczść równań teorii TSI względem transformacji Lorentza, zachowana we wszystkich sektorach teorii.
+**Lorentz Invariance** - The invariance of TSI theory equations under Lorentz transformations, preserved across all sectors of the theory.
 
 ## M
 
-**Masa Holograficzna** - Masa kwantowa pola holograficznego TSI. Wartość: μ_holo = 2.1×10⁻⁴ eV/c² = 3.7×10⁻⁴⁰ kg
+**Holographic Mass** - The quantum mass of the TSI holographic field. Value: μ_holo = 2.1×10⁻⁴ eV/c² = 3.7×10⁻⁴⁰ kg
 
-**Mechanizm Holograficzny** - Proces, przez który informacja o całym układzie jest zakodowana na jego granicy, zgodnie z zasadą holograficzną.
+**Holographic Mechanism** - The process by which information about an entire system is encoded on its boundary, according to the holographic principle.
 
-**Mechanizm Transdukcji** - Proces przekształcania informacji z jednej formy do drugiej w systemach biologicznych, opisany przez mechanizmy teorii TSI.
+**Transduction Mechanism** - The process of transforming information from one form to another in biological systems, described by TSI theory mechanisms.
 
-**Metaboliczne Pole Informacyjne** - Pole φ_M opisujące dystrybucję informacji metabolicznej w systemach biologicznych.
+**Metabolic Information Field** - The field φ_M describing the distribution of metabolic information in biological systems.
 
-**Model Standardowy TSI** - Rozszerzenie standardowego modelu fizyki cząstek o sektor holograficzny i biologiczny, zachowujące wszystkie znane symetrie.
+**TSI Standard Model** - An extension of the standard model of particle physics to include holographic and biological sectors, preserving all known symmetries.
 
 ## N
 
-**Noether Theorem TSI** - Rozszerzenie twierdzenia Noether na teorię TSI, pokazujące związek między symetriami a prawami zachowania w kontekście informacji holograficznej.
+**Noether Theorem TSI** - An extension of Noether's theorem to TSI theory, showing the relationship between symmetries and conservation laws in the context of holographic information.
 
-**Nietermiczna Fluktuacja** - Fluktuacje informacyjne w systemie, które nie są termicznego pochodzenia, lecz wynikają z procesów kwantowych.
+**Non-thermal Fluctuation** - Informational fluctuations in a system that are not of thermal origin but result from quantum processes.
 
-**Neurobiologiczna Detekcja** - Proces, przez który systemy nerwowe wykrywają i przetwarzają informacje holograficzne, opisany przez mechanizmy teorii TSI.
+**Neurobiological Detection** - The process by which nervous systems detect and process holographic information, described by TSI theory mechanisms.
 
 ## O
 
-**Obszar Holograficzny** - Powierzchnia granicy układu, na której zakodowana jest pełna informacja o układzie, zgodnie z zasadą holograficzną.
+**Holographic Area** - The boundary surface of a system where information is encoded, according to the holographic principle.
 
-**Onsager Relations TSI** - Relacje Onsagera rozszerzone na teorię TSI, opisujące sprzężenie między różnymi typami przepływów informacyjnych.
+**Onsager Relations TSI** - Onsager relations extended to TSI theory, describing the coupling between different types of information flows.
 
-**Operator Holograficzny** - Operator kwantowy działający na polu holograficznym, opisujący ewolucję informacji w czasie.
+**Holographic Operator** - A quantum operator acting on the holographic field, describing the evolution of information over time.
 
 ## P
 
-**Pole Bioelektryczne** - Pole φ_E opisujące dystrybucję informacji bioelektrycznej w systemach biologicznych, związane z potencjałami błonowymi i przepływami jonowymi.
+**Bioelectric Field** - The field φ_E describing the distribution of bioelectric information in biological systems, related to membrane potentials and ion flows.
 
-**Pole Informacyjne** - Pole kwantowe opisujące dystrybucję informacji w przestrzeni, składające się z czterech składowych w teorii TSI.
+**Information Field** - A quantum field describing information distribution in space, consisting of four components in TSI theory.
 
-**Pole Metaboliczne** - Pole φ_M opisujące dystrybucję informacji metabolicznej w systemach biologicznych, związane z procesami ATP i metabolizmu.
+**Metabolic Field** - The field φ_M describing the distribution of metabolic information in biological systems, related to ATP processes and metabolism.
 
-**Pole Złożoności** - Pole φ_C opisujące dystrybucję informacyjnej złożoności w systemach biologicznych, związane z sieciami neuronowymi i strukturami sieciowymi.
+**Complexity Field** - The field φ_C describing the distribution of informational complexity in biological systems, related to neural networks and network structures.
 
-**Próg Świadomości** - Minimalna wartość informacyjnej złożoności wymagana do emergencji świadomości. Wartość: Γ_crit = 0.27±0.05 (4D), 0.18±0.03 (z dodatkowymi wymiarami)
+**Consciousness Threshold** - The minimum value of informational complexity required for consciousness to emerge. Value: Γ_crit = 0.27±0.05 (4D), 0.18±0.03 (with extra dimensions)
 
-**Przewidywania Eksperymentalne** - Konkretne, ilościowe przewidywania teorii TSI, które mogą być zweryfikowane doświadczalnie.
+**Experimental Predictions** - Specific, quantitative predictions of TSI theory that can be experimentally verified.
 
 ## Q
 
-**Quantum Coherence Length** - Odległość, na której kwantowa koherencja informacji jest zachowana w systemie biologicznym.
+**Quantum Coherence Length** - The distance over which quantum coherence of information is maintained in a biological system.
 
-**Quantum Information Processing** - Przetwarzanie informacji wykorzystujące zjawiska kwantowe, opisane przez teorię TSI w kontekście systemów biologicznych.
+**Quantum Information Processing** - Information processing utilizing quantum phenomena, described by TSI theory in the context of biological systems.
 
 ## R
 
-**Równanie Schrödingera TSI** - Zmodyfikowane równanie Schrödingera uwzględniające oddziaływanie z polem holograficznym: iℏ ∂ψ/∂t = [Ĥ₀ + g₁I(x,t)σ̂_z + ...]ψ
+**TSI Schrödinger Equation** - A modified Schrödinger equation accounting for interaction with the holographic field: iℏ ∂ψ/∂t = [Ĥ₀ + g₁I(x,t)σ̂_z + ...]ψ
 
-**Równania Maxwella TSI** - Zmodyfikowane równania Maxwella uwzględniające oddziaływanie z polem holograficznym: ∂_μ F^μν = J^ν + 2g₂ I ∂^ν I
+**TSI Maxwell's Equations** - Modified Maxwell's equations accounting for interaction with the holographic field: ∂_μ F^μν = J^ν + 2g₂ I ∂^ν I
 
-**Regularizacja Holograficzna** - Proces usuwania nieskończoności z obliczeń kwantowych poprzez naturalne odcięcie związane z kompaktyfikacją dodatkowych wymiarów.
+**Holographic Regularization** - The process of removing infinities from quantum calculations through natural cutoff related to the compactification of extra dimensions.
 
-**Relacja Fluktuacyjno-Dyfuzji** - Relacja opisująca związek między fluktuacjami informacyjnymi a dyfuzją w systemach biologicznych.
+**Fluctuation-Dissipation Relation** - A relation describing the connection between informational fluctuations and diffusion in biological systems.
 
 ## S
 
-**Stan Koherencji** - Stan kwantowy systemu, w którym zachowana jest fazowa spójność informacji, niezbędna do przetwarzania informacji w teorii TSI.
+**Coherence State** - A quantum state of a system where phase coherence of information is maintained, essential for information processing in TSI theory.
 
-**Stan Podstawowy** - Najniższy energetycznie stan pola holograficznego, odpowiadający próżni informacyjnej.
+**Ground State** - The lowest energy state of the holographic field, corresponding to informational vacuum.
 
-**Stała Sprzężenia Holograficznego** - Stała opisująca siłę oddziaływania między polem holograficznym a systemami biologicznymi. Wartość: λ_HB = 1.7×10⁻¹² m³/J
+**Holographic Coupling Constant** - A constant describing the strength of interaction between the holographic field and biological systems. Value: λ_HB = 1.7×10⁻¹² m³/J
 
-**Stała Plancka Modyfikowana** - Efektywna stała Plancka w teorii TSI, modyfikowana przez oddziaływanie z polem holograficznym.
+**Modified Planck Constant** - The effective Planck constant in TSI theory, modified by interaction with the holographic field.
 
-**Symetria Holograficzna** - Symetria transformacji pozostawiająca nienaruszone równania teorii TSI, obejmująca symetrie Lorentza, kalibrowe i holograficzne.
+**Holographic Symmetry** - A symmetry of transformations that leaves the TSI theory equations invariant, including Lorentz, gauge, and holographic symmetries.
 
 ## T
 
-**Teoria Świadomego Informacyjnego Determinizmu (TSI)** - Kompletna teoria integrująca świadomość, mechanikę kwantową i biologię w jednolitym frameworku matematycznym.
+**Theory of Conscious Informational Determinism (TSI)** - A complete theory integrating consciousness, quantum mechanics, and biology into a unified mathematical framework.
 
-**Termodynamika Informacyjna** - Rozszerzenie termodynamiki na procesy informacyjne, opisujące przepływ i przetwarzanie informacji w systemach fizycznych i biologicznych.
+**Information Thermodynamics** - An extension of thermodynamics to informational processes, describing the flow and processing of information in physical and biological systems.
 
-**Transdukcja Informacji** - Proces przekształcania informacji z jednej formy do drugiej w systemach biologicznych, opisany przez mechanizmy teorii TSI.
+**Information Transduction** - The process of transforming information from one form to another in biological systems, described by TSI theory mechanisms.
 
-**Transformacja Holograficzna** - Transformacja matematyczna opisująca mapowanie informacji z objętości na jej granicę, zgodnie z zasadą holograficzną.
+**Holographic Transformation** - A mathematical transformation describing the mapping of information from a volume to its boundary, according to the holographic principle.
 
 ## U
 
-**Unifikacja Matematyczna** - Proces integracji wszystkich oddziaływań fundamentalnych z mechanizmem holograficznym TSI w jednolitej strukturze matematycznej.
+**Mathematical Unification** - The process of integrating all fundamental interactions with the TSI holographic mechanism into a unified mathematical structure.
 
-**Uniwersalność Informacyjna** - Zasada, że wszystkie systemy informacyjne podlegają tym samym fundamentalnym prawom teorii TSI.
+**Informational Universality** - The principle that all informational systems are subject to the same fundamental laws of TSI theory.
 
 ## V
 
-**Vacuum Expectation Value** - Wartość oczekiwana pola holograficznego w stanie próżni. Wartość: ⟨I⟩ = 2.3×10⁻¹² J/m³
+**Vacuum Expectation Value** - The expected value of the holographic field in the vacuum state. Value: ⟨I⟩ = 2.3×10⁻¹² J/m³
 
-**Vlasov Equation TSI** - Równanie kinetyczne opisujące ewolucję dystrybucji informacji w fazowej przestrzeni systemów biologicznych.
+**TSI Vlasov Equation** - A kinetic equation describing the evolution of information distribution in the phase space of biological systems.
 
 ## W
 
-**Wektor Holograficzny** - Wektor w przestrzeni stanów opisujący stan informacji w polu holograficznym.
+**Holographic Vector** - A vector in state space describing the state of information in the holographic field.
 
-**Własności Krytyczne** - Właściwości systemu w pobliżu progu emergencji świadomości, charakteryzujące się skokowym wzrostem korelacji informacyjnych.
+**Critical Properties** - Properties of a system near the threshold of consciousness emergence, characterized by a sudden increase in informational correlations.
 
 ## X
 
-**XOR Gate Quantum** - Kwantowa bramka logiczna wykorzystująca własności pola holograficznego do przetwarzania informacji.
+**Quantum XOR Gate** - A quantum logic gate utilizing holographic field properties for information processing.
 
 ## Y
 
-**Yang-Mills Theory TSI** - Rozszerzenie teorii Yang-Mills na sektor holograficzny i biologiczny teorii TSI.
+**TSI Yang-Mills Theory** - An extension of Yang-Mills theory to the holographic and biological sectors of TSI theory.
 
 ## Z
 
-**Zasada Holograficzna** - Fundamentalna zasada teorii TSI stwierdzająca, że pełna informacja o układzie w n-wymiarowej przestrzeni może być zakodowana na jego (n-1)-wymiarowej granicy.
+**Holographic Principle** - The fundamental principle of TSI theory stating that the complete information of a system in n-dimensional space can be encoded on its (n-1)-dimensional boundary.
 
-**Złożoność Informacyjna** - Miara złożoności systemu oparta na ilości informacji potrzebnej do jego opisu, obliczana jako C = M × E × I × C.
+**Informational Complexity** - A measure of system complexity based on the amount of information needed to describe it, calculated as C = M × E × I × C.
 
-**Związek Fluktuacyjno-Dyfuzji** - Relacja opisująca związek między fluktuacjami informacyjnymi a dyfuzją w systemach biologicznych, rozszerzona na kontekst teorii TSI.
+**Fluctuation-Dissipation Relation** - A relation describing the connection between informational fluctuations and diffusion in biological systems, extended to the TSI theory context.
 
 ---
 
-## Skróty i Akronimy
+## Abbreviations and Acronyms
 
-**TSI** - Theory of Conscious Informational Determination (Teoria Świadomego Informacyjnego Determinizmu)
+**TSI** - Theory of Conscious Informational Determination
 
-**M** - Metabolic Field (Pole Metaboliczne)
+**M** - Metabolic Field
 
-**E** - Bioelectric Field (Pole Bioelektryczne)
+**E** - Bioelectric Field
 
-**I** - Information Field (Pole Informacyjne)
+**I** - Information Field
 
-**C** - Complexity Field (Pole Złożoności)
+**C** - Complexity Field
 
-**QFT** - Quantum Field Theory (Teoria Kwantowa Pól)
+**QFT** - Quantum Field Theory
 
-**SM** - Standard Model (Model Standardowy)
+**SM** - Standard Model
 
-**GR** - General Relativity (Ogólna Teoria Względności)
+**GR** - General Relativity
 
-**ATP** - Adenosine Triphosphate (Adenozynotrifosforan)
+**ATP** - Adenosine Triphosphate
 
-**EEG** - Electroencephalography (Elektroencefalografia)
+**EEG** - Electroencephalography
 
-**fMRI** - Functional Magnetic Resonance Imaging (Funkcjonalny Rezonans Magnetyczny)
+**fMRI** - Functional Magnetic Resonance Imaging
 
-**UV** - Ultraviolet (Ultrafiolet)
+**UV** - Ultraviolet
 
-**IR** - Infrared (Podczerwień)
+**IR** - Infrared
 
-**MeV** - Mega-electron Volt (Megaelektronowolt)
+**MeV** - Mega-electron Volt
 
-**GeV** - Giga-electron Volt (Gigaelektronowolt)
+**GeV** - Giga-electron Volt
 
-**eV** - Electron Volt (Elektronowolt)
+**eV** - Electron Volt
 
-**J** - Joule (Dżul)
+**J** - Joule
 
-**m** - Meter (Metr)
+**m** - Meter
 
-**s** - Second (Sekunda)
+**s** - Second
 
-**Hz** - Hertz (Herc)
+**Hz** - Hertz
 
-**K** - Kelvin (Kelwin)
+**K** - Kelvin
 
-**k_B** - Boltzmann Constant (Stała Boltzmanna)
+**k_B** - Boltzmann Constant
 
-**ℏ** - Reduced Planck Constant (Zredukowana stała Plancka)
+**ℏ** - Reduced Planck Constant
 
-**c** - Speed of Light (Prędkość światła)
+**c** - Speed of Light
 
-**G** - Gravitational Constant (Stała grawitacyjna)
+**G** - Gravitational Constant
 
-**α** - Fine Structure Constant (Stała struktury subtelnej)
+**α** - Fine Structure Constant
 
-**β** - Beta Function (Funkcja beta)
+**β** - Beta Function
 
-**γ** - Gamma Factor (Współczynnik Lorentza)
+**γ** - Lorentz Factor
 
-**δ** - Delta Function (Funkcja delta)
+**δ** - Delta Function
 
-**ε** - Permittivity (Przenikalność elektryczna)
+**ε** - Permittivity
 
-**μ** - Permeability (Przenikalność magnetyczna)
+**μ** - Permeability
 
-**ρ** - Density (Gęstość)
+**ρ** - Density
 
-**σ** - Cross Section (Przekrój czynny)
+**σ** - Cross Section
 
-**τ** - Time Constant (Stała czasowa)
+**τ** - Time Constant
 
-**φ** - Field (Pole)
+**φ** - Field
 
-**ψ** - Wave Function (Funkcja falowa)
+**ψ** - Wave Function
 
-**Ψ** - Field Operator (Operator pola)
+**Ψ** - Field Operator
 
-**Ω** - Solid Angle (Kąt bryłowy)
+**Ω** - Solid Angle
 
-**Λ** - Cosmological Constant (Stała kosmologiczna)
+**Λ** - Cosmological Constant
 
-**Σ** - Summation (Suma)
+**Σ** - Summation
 
-**Π** - Product (Iloczyn)
+**Π** - Product
 
-**∇** - Nabla Operator (Operator nabla)
+**∇** - Nabla Operator
 
-**□** - D'Alembertian (D'Alembertian)
+**□** - D'Alembertian
 
-**∂** - Partial Derivative (Pochodna cząstkowa)
+**∂** - Partial Derivative
 
-**∫** - Integral (Całka)
+**∫** - Integral
 
-**∮** - Contour Integral (Całka konturowa)
+**∮** - Contour Integral
 
-**∑** - Summation (Suma)
+**∑** - Summation
 
-**∏** - Product (Iloczyn)
+**∏** - Product
 
-**∈** - Element of (Należy do)
+**∈** - Element of
 
-**⊂** - Subset of (Podzbiór)
+**⊂** - Subset of
 
-**⊃** - Superset of (Nadzbiór)
+**⊃** - Superset of
 
-**∩** - Intersection (Przecięcie)
+**∩** - Intersection
 
-**∪** - Union (Suma)
+**∪** - Union
 
-**∅** - Empty Set (Zbiór pusty)
+**∅** - Empty Set
 
-**∞** - Infinity (Nieskończoność)
+**∞** - Infinity
 
-**ℵ** - Aleph Number (Liczba alef)
+**ℵ** - Aleph Number
 
-**ℝ** - Real Numbers (Liczby rzeczywiste)
+**ℝ** - Real Numbers
 
-**ℂ** - Complex Numbers (Liczby zespolone)
+**ℂ** - Complex Numbers
 
-**ℤ** - Integers (Liczby całkowite)
+**ℤ** - Integers
 
-**ℕ** - Natural Numbers (Liczby naturalne)
+**ℕ** - Natural Numbers
 
-**ℚ** - Rational Numbers (Liczby wymierne)
+**ℚ** - Rational Numbers
 
-**ℍ** - Quaternions (Kwaterniony)
+**ℍ** - Quaternions
 
-**𝕆** - Octonions (Oktawiony)
+**𝕆** - Octonions
 
-**𝔽** - Field (Ciało)
+**𝔽** - Field
 
-**𝔾** - Group (Grupa)
+**𝔾** - Group
 
-**𝕃** - Lagrangian (Lagrangian)
+**𝕃** - Lagrangian
 
-**𝕋** - Tensor (Tensor)
+**𝕋** - Tensor
 
-**𝕍** - Vector Space (Przestrzeń wektorowa)
+**𝕍** - Vector Space
 
-**𝕎** - Wave Function (Funkcja falowa)
+**𝕎** - Wave Function
 
-**𝕏** - Unknown Variable (Zmienna nieznana)
+**𝕏** - Unknown Variable
 
-**𝕐** - Yield (Wydajność)
+**𝕐** - Yield
 
-**ℤ** - Partition Function (Funkcja podziału)
+**ℤ** - Partition Function
 
 ---
 
-## Kluczowe Wartości Liczbowe
+## Key Numerical Values
 
 **μ_holo** = 2.1×10⁻⁴ eV/c² (holographic field mass)
 
@@ -595,8 +595,6 @@
 
 **Temporal resolution** = 1 ms consciousness changes
 
-
-
 ---
 
 ## Related Documents
@@ -617,4 +615,3 @@ For detailed explanations of these terms and concepts, see:
 - **[Phase 3 - Biological Foundations](../theory/phase-3-biological-foundations/cellular-information-transduction.md)** - Biological mechanisms and cellular processes
 - **[Phase 4 - Interdisciplinary Integration](../theory/phase-4-interdisciplinary-integration/ARCHITECTURE-PHASE-4-INTEGRATION.md)** - Cross-domain concepts and integration frameworks
 - **[Phase 5 - Theoretical Predictions](../theory/phase-5-theoretical-predictions/experimental-signatures.md)** - Experimental definitions and measurement protocols
-
