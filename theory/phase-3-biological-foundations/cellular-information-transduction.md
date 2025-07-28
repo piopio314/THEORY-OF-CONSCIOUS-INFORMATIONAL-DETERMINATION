@@ -360,4 +360,17 @@ Information fields regulate autophagy through mTOR:
 2. Clapham, D. E. (2007). Calcium signaling. Cell, 131(6), 1047-1058.
 3. Putney Jr, J. W. (2018). The physiological function of store-operated calcium entry. Neurochemical Research, 43(7), 1287-1293.
 4. Rizzuto, R., De Stefani, D., Raffaello, A., & Mammucari, C. (2012). Mitochondria as sensors and regulators of calcium signalling. Nature Reviews Molecular Cell Biology, 13(9), 566-578.
+
+---
+
+## Related Theory Documents
+
+For comprehensive understanding of the theoretical framework, see:
+
+- **[Core Concepts](../core-concepts.md)** - Fundamental definitions and principles of TSI 8.0
+- **[Mathematical Formalism](../mathematical-formalism.md)** - Mathematical foundations and formal proofs
+- **[Predictions](../predictions.md)** - Testable predictions derived from the theory
+- **[Philosophical Foundations](../phase-1-philosophical-foundations/Philosophical-Foundations-of-TSI-8.0.md)** - Philosophical justification and ontological foundations
+- **[Complete Mathematical Unification](../phase-2-mathematical-formalism/complete-mathematical-unification.md)** - Comprehensive mathematical framework
+- **[Original Manifesto](../../docs/original-manifest.md)** - Historical context and evolution of TSI
 5. Bootman, M. D. (2012). Calcium signaling. Cold Spring Harbor Perspectives in Biology, 4(7), a011171.

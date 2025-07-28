@@ -280,4 +280,16 @@ The key innovation of TSI is recognizing that consciousness is not a **being**, 
 ---
 
 **Document prepared by Team Alpha - Phase 1 Philosophical Justification of TSI 8.0**  
+
+---
+
+## Related Theory Documents
+
+For deeper understanding of the theoretical framework presented here, see:
+
+- **[Core Concepts](../core-concepts.md)** - Fundamental definitions and principles of TSI 8.0
+- **[Mathematical Formalism](../mathematical-formalism.md)** - Mathematical foundations and formal proofs
+- **[Predictions](../predictions.md)** - Testable predictions derived from the theory
+- **[Complete Mathematical Unification](../COMPLETE-MATHEMATICAL-UNIFICATION.md)** - Comprehensive mathematical framework
+- **[Original Manifesto](../../docs/original-manifest.md)** - Historical context and evolution of TSI
 *Last updated: July 27, 2025*

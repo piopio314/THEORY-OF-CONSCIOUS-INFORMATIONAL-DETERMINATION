@@ -106,4 +106,17 @@ This document specifies the exact experimental signatures that would confirm TSI
 - **Quantum coherence**: SNR ≥ 20 dB
 - **Chemical reactions**: SNR ≥ 15 dB
 - **Gravitational**: SNR ≥ 5 dB
+
+---
+
+## Related Theory Documents
+
+For comprehensive understanding of the theoretical framework, see:
+
+- **[Core Concepts](../core-concepts.md)** - Fundamental definitions and principles of TSI 8.0
+- **[Mathematical Formalism](../mathematical-formalism.md)** - Mathematical foundations and formal proofs
+- **[Predictions](../predictions.md)** - Testable predictions derived from the theory
+- **[Philosophical Foundations](../phase-1-philosophical-foundations/Philosophical-Foundations-of-TSI-8.0.md)** - Philosophical justification and ontological foundations
+- **[Complete Mathematical Unification](../phase-2-mathematical-formalism/complete-mathematical-unification.md)** - Comprehensive mathematical framework
+- **[Original Manifesto](../../docs/original-manifest.md)** - Historical context and evolution of TSI
 - **EM fields**: SNR ≥ 25 dB

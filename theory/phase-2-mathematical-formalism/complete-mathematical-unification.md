@@ -936,4 +936,16 @@ The theory provides specific, quantitative predictions that are:
 
 ---
 
+
+---
+
+## Related Theory Documents
+
+For comprehensive understanding of the theoretical framework, see:
+
+- **[Core Concepts](../core-concepts.md)** - Fundamental definitions and principles of TSI 8.0
+- **[Mathematical Formalism](../mathematical-formalism.md)** - Mathematical foundations and formal proofs
+- **[Predictions](../predictions.md)** - Testable predictions derived from the theory
+- **[Philosophical Foundations](../phase-1-philosophical-foundations/Philosophical-Foundations-of-TSI-8.0.md)** - Philosophical justification and ontological foundations
+- **[Original Manifesto](../../docs/original-manifest.md)** - Historical context and evolution of TSI
 **TSI 8.0 represents a mathematically complete, internally consistent, and experimentally testable framework for understanding the relationship between consciousness, quantum mechanics, and fundamental physics. The theory is ready for rigorous scientific evaluation through the proposed experimental protocols.**

@@ -233,4 +233,17 @@ Po ukończeniu Fazy 4, wszystkie dokumenty będą gotowe do:
 2. Projektowania eksperymentów
 3. Implementacji praktycznych zastosowań
 
+
+---
+
+## Related Theory Documents
+
+For comprehensive understanding of the theoretical framework, see:
+
+- **[Core Concepts](../core-concepts.md)** - Fundamental definitions and principles of TSI 8.0
+- **[Mathematical Formalism](../mathematical-formalism.md)** - Mathematical foundations and formal proofs
+- **[Predictions](../predictions.md)** - Testable predictions derived from the theory
+- **[Philosophical Foundations](../phase-1-philosophical-foundations/Philosophical-Foundations-of-TSI-8.0.md)** - Philosophical justification and ontological foundations
+- **[Complete Mathematical Unification](../phase-2-mathematical-formalism/complete-mathematical-unification.md)** - Comprehensive mathematical framework
+- **[Original Manifesto](../../docs/original-manifest.md)** - Historical context and evolution of TSI
 Plan jest gotowy do implementacji przez zespół Code.
