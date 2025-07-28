@@ -1,81 +1,81 @@
-# Integracja z Mechaniką Kwantową w TSI 8.0
-## Formalna konstrukcja kwantowej teorii informacyjnego determinizmu
+# Quantum Mechanics Integration in TSI 8.0
+## Formal construction of quantum theory of informational determinism
 
-### 1. Postulaty Kwantowej TSI
+### 1. Postulates of Quantum TSI
 
-#### 1.1 Przestrzeń Stanów Kwantowych TSI
+#### 1.1 Quantum State Space of TSI
 
-Przestrzeń stanów kwantowych TSI jest zdefiniowana jako:
+The quantum state space of TSI is defined as:
 
 $$
 \mathcal{H}_{\text{TSI}} = \mathcal{H}_{\text{Matter}} \otimes \mathcal{H}_{\text{Energy}} \otimes \mathcal{H}_{\text{Information}} \otimes \mathcal{H}_{\text{Consciousness}}
 $$
 
-z iloczynem skalarnym:
+with inner product:
 
 $$
 \langle \Psi | \Phi \rangle = \int \mathcal{D}\phi \, \Psi^*[\phi] \Phi[\phi]
 $$
 
-#### 1.2 Postulat Superpozycji
+#### 1.2 Superposition Postulate
 
-Dla dowolnych $|\Psi\rangle, |\Phi\rangle \in \mathcal{H}_{\text{TSI}}$:
+For any $|\Psi\rangle, |\Phi\rangle \in \mathcal{H}_{\text{TSI}}$:
 
 $$
 \alpha |\Psi\rangle + \beta |\Phi\rangle \in \mathcal{H}_{\text{TSI}}, \quad \forall \alpha, \beta \in \mathbb{C}
 $$
 
-### 2. Operator Ewolucji TSI
+### 2. TSI Evolution Operator
 
-#### 2.1 Hamiltonian Kwantowy TSI
+#### 2.1 Quantum Hamiltonian of TSI
 
 $$
 \hat{H}_{\text{TSI}} = \hat{H}_{\text{Matter}} + \hat{H}_{\text{Energy}} + \hat{H}_{\text{Information}} + \hat{H}_{\text{Consciousness}} + \hat{H}_{\text{Interaction}}
 $$
 
-#### 2.2 Równanie Schrödingera TSI
+#### 2.2 TSI Schrödinger Equation
 
 $$
 i\hbar_{\text{TSI}} \frac{\partial}{\partial t} |\Psi(t)\rangle = \hat{H}_{\text{TSI}} |\Psi(t)\rangle
 $$
 
-gdzie $\hbar_{\text{TSI}}$ jest stałą Plancka dla teorii informacyjnego determinizmu.
+where $\hbar_{\text{TSI}}$ is the Planck constant for the theory of informational determinism.
 
-### 3. Kwantowe Pole Informacyjne
+### 3. Quantum Information Field
 
-#### 3.1 Operator Pola Informacyjnego
+#### 3.1 Information Field Operator
 
-Operator pola informacyjnego $\hat{I}(x)$ spełnia relacje kanoniczne:
+The information field operator $\hat{I}(x)$ satisfies canonical relations:
 
 $$
 [\hat{I}(x), \hat{\pi}_I(y)] = i\hbar_{\text{TSI}} \delta^4(x-y)
 $$
 
-#### 3.2 Rozwinięcie w Operatory Tworzące i Anihilacji
+#### 3.2 Expansion in Creation and Annihilation Operators
 
 $$
 \hat{I}(x) = \int \frac{d^3k}{(2\pi)^3 2\omega_k} \left[ \hat{a}_I(\vec{k}) e^{-ik\cdot x} + \hat{a}_I^\dagger(\vec{k}) e^{ik\cdot x} \right]
 $$
 
-### 4. Kwantowe Korelacje MEIC
+### 4. Quantum MEIC Correlations
 
-#### 4.1 Funkcje Wightmana TSI
+#### 4.1 TSI Wightman Functions
 
-Dwupunktowa funkcja Wightmana:
+Two-point Wightman function:
 
 $$
 W_{\text{TSI}}(x,y) = \langle 0 | T[\hat{M}(x)\hat{E}(y)] | 0 \rangle
 $$
 
-#### 4.2 Równania Schwingera-Dyson'a
+#### 4.2 Schwinger-Dyson Equations
 
 $$
-\left( \Box_x + m^2 \right) \frac{\delta Z[J]}{\delta J(x)} = J(x) Z[J] + \text{interakcje}
+\left( \Box_x + m^2 \right) \frac{\delta Z[J]}{\delta J(x)} = J(x) Z[J] + \text{interactions}
 $$
 
-### 5. Kwantowe Splątanie TSI
+### 5. Quantum TSI Entanglement
 
-#### 5.1 Stan Splątania MEIC
+#### 5.1 MEIC Entangled State
 
 $$
 |\Psi_{\text{MEIC}}\rangle = \frac{1}{\sqrt{2}} \left( |M\rangle|E\rangle|I\rangle|C\rangle + |M'\rangle|E'\rangle|I'\rangle|C'\rangle \right)
@@ -87,222 +87,222 @@ $$
 S_A = -\text{Tr}_A(\rho_A \log \rho_A)
 $$
 
-gdzie $\rho_A = \text{Tr}_{\bar{A}}(|\Psi_{\text{MEIC}}\rangle \langle \Psi_{\text{MEIC}}|)$
+where $\rho_A = \text{Tr}_{\bar{A}}(|\Psi_{\text{MEIC}}\rangle \langle \Psi_{\text{MEIC}}|)$
 
-### 6. Kwantowe Fluktuacje Informacyjne
+### 6. Quantum Informational Fluctuations
 
-#### 6.1 Korelacje Czasowe
+#### 6.1 Temporal Correlations
 
 $$
 \langle \hat{I}(t)\hat{I}(0) \rangle = \int \frac{d\omega}{2\pi} S(\omega) e^{-i\omega t}
 $$
 
-#### 6.2 Spektrum Mocy
+#### 6.2 Power Spectrum
 
 $$
 S(\omega) = \frac{2\hbar_{\text{TSI}}}{1-e^{-\beta\hbar_{\text{TSI}}\omega}} \text{Im} \chi(\omega)
 $$
 
-### 7. Kwantowe Równania Master
+### 7. Quantum Master Equations
 
-#### 7.1 Równanie Lindblada TSI
+#### 7.1 TSI Lindblad Equation
 
 $$
 \frac{d\rho}{dt} = -\frac{i}{\hbar_{\text{TSI}}} [\hat{H}_{\text{TSI}}, \rho] + \sum_i \gamma_i \left( L_i \rho L_i^\dagger - \frac{1}{2} \{L_i^\dagger L_i, \rho\} \right)
 $$
 
-#### 7.2 Stacjonarne Rozwiązania
+#### 7.2 Stationary Solutions
 
 $$
 \mathcal{L}_{\text{TSI}}[\rho_{\text{ss}}] = 0
 $$
 
-### 8. Kwantowe Pomiary TSI
+### 8. Quantum TSI Measurements
 
-#### 8.1 Postulat Pomiaru
+#### 8.1 Measurement Postulate
 
-Dla operatora $\hat{A}$ z wartościami własnymi $a_n$:
+For operator $\hat{A}$ with eigenvalues $a_n$:
 
 $$
 \hat{A} |a_n\rangle = a_n |a_n\rangle
 $$
 
-Prawdopodobieństwo uzyskania wyniku $a_n$:
+Probability of obtaining result $a_n$:
 
 $$
 P(a_n) = |\langle a_n | \Psi \rangle|^2
 $$
 
-#### 8.2 Redukcja Pakietu Falowego
+#### 8.2 Wave Packet Reduction
 
-Po pomiarze:
+After measurement:
 
 $$
 |\Psi\rangle \rightarrow \frac{\hat{P}_n |\Psi\rangle}{\sqrt{\langle \Psi | \hat{P}_n | \Psi \rangle}}
 $$
 
-### 9. Kwantowe Nierówności
+### 9. Quantum Inequalities
 
-#### 9.1 Nierówność Heisenberga TSI
+#### 9.1 TSI Heisenberg Inequality
 
 $$
 \Delta \hat{M} \Delta \hat{E} \geq \frac{\hbar_{\text{TSI}}}{2} |\langle [\hat{M}, \hat{E}] \rangle|
 $$
 
-#### 9.2 Nierówność Bell'a dla TSI
+#### 9.2 Bell's Inequality for TSI
 
 $$
 |\langle \mathcal{B}_{\text{TSI}} \rangle| \leq 2
 $$
 
-dla teorii lokalnych zmiennych ukrytych.
+for local hidden variable theories.
 
-### 10. Kwantowe Symetrie TSI
+### 10. Quantum TSI Symmetries
 
-#### 10.1 Transformacje Kalibrowe
+#### 10.1 Gauge Transformations
 
-Operator transformacji kalibrowej:
+Gauge transformation operator:
 
 $$
 U(\alpha) = \exp\left( i \int d^4x \, \alpha(x) \hat{J}^0(x) \right)
 $$
 
-#### 10.2 Niezłamanie Symetrii
+#### 10.2 Symmetry Unbreaking
 
 $$
 U(\alpha) |0\rangle = |0\rangle
 $$
 
-### 11. Kwantowe Anomalie
+### 11. Quantum Anomalies
 
-#### 11.1 Anomalia ABJ
+#### 11.1 ABJ Anomaly
 
 $$
 \partial_\mu J_5^\mu = \frac{g^2}{16\pi^2} \text{Tr}(F_{\mu\nu} \tilde{F}^{\mu\nu})
 $$
 
-#### 11.2 Anomalia Gravitacyjna
+#### 11.2 Gravitational Anomaly
 
 $$
 \partial_\mu T^{\mu\nu} = \mathcal{A}^\nu
 $$
 
-### 12. Kwantowe Statystyki
+### 12. Quantum Statistics
 
-#### 12.1 Statystyka Bosego-Einsteina
+#### 12.1 Bose-Einstein Statistics
 
 $$
 n_B(\epsilon) = \frac{1}{e^{\beta(\epsilon-\mu)} - 1}
 $$
 
-#### 12.2 Statystyka Fermiego-Diraca
+#### 12.2 Fermi-Dirac Statistics
 
 $$
 n_F(\epsilon) = \frac{1}{e^{\beta(\epsilon-\mu)} + 1}
 $$
 
-### 13. Kwantowe Pola w Zakrzywionej Czasoprzestrzeni
+### 13. Quantum Fields in Curved Spacetime
 
-#### 13.1 Równanie Klein-Gordona
+#### 13.1 Klein-Gordon Equation
 
 $$
 (\Box_g + m^2 + \xi R) \hat{\phi} = 0
 $$
 
-#### 13.2 Wakuuum w Zakrzywionej Czasoprzestrzeni
+#### 13.2 Vacuum in Curved Spacetime
 
 $$
 |0_g\rangle \neq |0_M\rangle
 $$
 
-### 14. Kwantowe Efekty Graniczne
+### 14. Quantum Boundary Effects
 
-#### 14.1 Efekt Casimira TSI
+#### 14.1 TSI Casimir Effect
 
 $$
 E_{\text{Casimir}} = -\frac{\pi^2 \hbar_{\text{TSI}} c}{720 L^3}
 $$
 
-#### 14.2 Promieniowanie Hawkinga
+#### 14.2 Hawking Radiation
 
 $$
 T_H = \frac{\hbar_{\text{TSI}} \kappa}{2\pi}
 $$
 
-### 15. Kwantowe Obliczenia TSI
+### 15. Quantum TSI Computing
 
-#### 15.1 Kwantowe Bramy TSI
+#### 15.1 TSI Quantum Gates
 
-Brama Hadamarda:
+Hadamard gate:
 
 $$
 H = \frac{1}{\sqrt{2}} \begin{pmatrix} 1 & 1 \\ 1 & -1 \end{pmatrix}
 $$
 
-#### 15.2 Kwantowe Algorytmy
+#### 15.2 Quantum Algorithms
 
-Algorytm Shora dla TSI:
+Shor's algorithm for TSI:
 
 $$
 U_f |x\rangle|y\rangle = |x\rangle|y \oplus f(x)\rangle
 $$
 
-### 16. Kwantowe Kody Korekcyjne TSI
+### 16. Quantum TSI Error Correction Codes
 
-#### 16.1 Kod 9-qubitowy Shora
+#### 16.1 9-qubit Shor Code
 
 $$
 |\overline{0}\rangle = \frac{1}{2\sqrt{2}} (|000\rangle + |111\rangle)^{\otimes 3}
 $$
 
-#### 16.2 Kod 7-qubitowy Steane'a
+#### 16.2 7-qubit Steane Code
 
 $$
 |\overline{0}\rangle = \frac{1}{\sqrt{8}} \sum_{x \in \text{Hamming}} |x\rangle
 $$
 
-### 17. Kwantowe Metody Numeryczne
+### 17. Quantum Numerical Methods
 
-#### 17.1 Monte Carlo Kwantowe
+#### 17.1 Quantum Monte Carlo
 
 $$
 \langle \hat{O} \rangle = \frac{\int \mathcal{D}\phi \, O[\phi] e^{-S[\phi]}}{\int \mathcal{D}\phi \, e^{-S[\phi]}}
 $$
 
-#### 17.2 Metody Tensor Networks
+#### 17.2 Tensor Network Methods
 
 $$
 |\Psi\rangle = \sum_{\{s\}} \text{Tr}(A^{s_1} A^{s_2} \cdots A^{s_N}) |s_1 s_2 \cdots s_N\rangle
 $$
 
-### 18. Kwantowe Granice Holograficzne
+### 18. Quantum Holographic Bounds
 
-#### 18.1 Granica Bekensteina
+#### 18.1 Bekenstein Bound
 
 $$
 S \leq \frac{A}{4G_N \hbar_{\text{TSI}}}
 $$
 
-#### 18.2 Granica Lloyd'a
+#### 18.2 Lloyd's Bound
 
 $$
 t_{\text{min}} \geq \frac{\hbar_{\text{TSI}}}{k_B T}
 $$
 
-### 19. Kwantowe Testy TSI
+### 19. Quantum TSI Tests
 
-#### 19.1 Test Leggetta-Garga
+#### 19.1 Leggett-Garg Test
 
 $$
 K_3 = \langle Q(t_1)Q(t_2) \rangle + \langle Q(t_2)Q(t_3) \rangle - \langle Q(t_1)Q(t_3) \rangle \leq 1
 $$
 
-#### 19.2 Test Kontekstualności
+#### 19.2 Contextuality Test
 
 $$
-\sum_i \langle A_i B_i \rangle \leq \text{Klasyczna granica}
+\sum_i \langle A_i B_i \rangle \leq \text{Classical bound}
 $$
 
-### 20. Podsumowanie
+### 20. Summary
 
-Integracja z mechaniką kwantową w TSI 8.0 zapewnia solidne podstawy matematyczne dla kwantowej teorii informacyjnego determinizmu, łącząc fundamentalne aspekty mechaniki kwantowej z informacyjną naturą rzeczywistości.
+Quantum mechanics integration in TSI 8.0 provides solid mathematical foundations for the quantum theory of informational determinism, connecting fundamental aspects of quantum mechanics with the informational nature of reality.

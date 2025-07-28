@@ -12,94 +12,94 @@ Complete mathematical framework of TSI 8.0 theory, including equations, proofs, 
 
 ---
 
-## 📐 Skrócony Przegląd Formalizmu Matematycznego TSI 8.0
+## 📐 Brief Overview of TSI 8.0 Mathematical Formalism
 
-### 🎯 Podstawowa Struktura Matematyczna
+### 🎯 Basic Mathematical Structure
 
-Teoria TSI 8.0 opiera się na matematycznym ujednoliceniu czterech podstawowych sektorów:
-- **Sektor Standardowy (SM)**: Standardowy Model fizyki cząstek
-- **Sektor Holograficzny**: Pole informacyjne w przestrzeni ℋⁿ
-- **Sektor Biologiczny**: Pola metaboliczne, bioelektryczne i informacyjne
-- **Sektor Oddziaływań**: Łączące wszystkie sektory
+The TSI 8.0 theory is based on the mathematical unification of four fundamental sectors:
+- **Standard Model (SM) Sector**: Standard Model of particle physics
+- **Holographic Sector**: Information field in ℋⁿ space
+- **Biological Sector**: Metabolic, bioelectrical, and informational fields
+- **Interaction Sector**: Connecting all sectors
 
-### 🔢 Główne Równania i Wzory
+### 🔢 Main Equations and Formulas
 
-#### Operator Ewolucji Świadomości
-Operator czasowy ewolucji stanu kwantowego świadomości:
+#### Consciousness Evolution Operator
+The time evolution operator for the quantum state of consciousness:
 
 $$\hat{U}(t) = \exp\left(-\frac{i\hat{H}t}{\hbar}\right)$$
 
-gdzie $\hat{H}$ jest pełnym hamiltonianem systemu obejmującym wszystkie cztery sektory.
+where $\hat{H}$ is the full system Hamiltonian encompassing all four sectors.
 
-#### Tensor Informacyjny
-Tensor energii-pędu dla pola informacyjnego:
+#### Information Tensor
+The energy-momentum tensor for the information field:
 
 $$T^{\mu\nu} = \frac{\partial \mathcal{L}}{\partial(\partial_\mu \phi)}\partial^\nu \phi - g^{\mu\nu}\mathcal{L}$$
 
-Dla sektora holograficznego:
+For the holographic sector:
 
 $$T^{\mu\nu}_{holo} = \partial^\mu I \partial^\nu I - \frac{1}{2}\eta^{\mu\nu}\left[(\partial I)^2 + \mu^2_{holo} I^2 + \frac{1}{2}\lambda_4 I^4\right]$$
 
-#### Stan Kwantowy Świadomości
-Stan kwantowy świadomości żywego systemu:
+#### Quantum State of Consciousness
+The quantum state of consciousness for a living system:
 
 $$|\Psi\rangle \in \mathcal{H}_C \otimes \mathcal{H}_P \otimes \mathcal{H}_E$$
 
-gdzie:
-- $\mathcal{H}_C$: przestrzeń Hilberta świadomości
-- $\mathcal{H}_P$: przestrzeń Hilberta fizycznych pól
-- $\mathcal{H}_E$: przestrzeń Hilberta środowiska
+where:
+- $\mathcal{H}_C$: consciousness Hilbert space
+- $\mathcal{H}_P$: physical fields Hilbert space
+- $\mathcal{H}_E$: environment Hilbert space
 
-#### Kryterium Świadomości
-Miara świadomości oparta na entropii von Neumanna:
+#### Consciousness Criterion
+A measure of consciousness based on von Neumann entropy:
 
 $$\Gamma = \text{Tr}(\rho \log \rho) \geq \Gamma_{crit}$$
 
-gdzie $\Gamma_{crit} = 0.27 \pm 0.05$ dla podstawowego progu świadomości.
+where $\Gamma_{crit} = 0.27 \pm 0.05$ for the basic consciousness threshold.
 
-### 🧮 Struktura Matematyczna Teorii
+### 🧮 Mathematical Structure of the Theory
 
-#### Przestrzenie Hilberta
-Teoria operuje na przestrzeni Hilberta wymiaru n:
+#### Hilbert Spaces
+The theory operates on an n-dimensional Hilbert space:
 
 $$\mathcal{H}^{(n)} = \mathcal{H}^{(4)} \otimes \mathcal{H}^{(n-4)}_{extra}$$
 
-gdzie:
-- $\mathcal{H}^{(4)}$: standardowa 4-wymiarowa przestrzeń Minkowskiego
-- $\mathcal{H}^{(n-4)}_{extra}$: przestrzeń dodatkowych wymiarów
+where:
+- $\mathcal{H}^{(4)}$: standard 4-dimensional Minkowski space
+- $\mathcal{H}^{(n-4)}_{extra}$: space of extra dimensions
 
-#### Operatory Pola
-Podstawowe operatory pola:
+#### Field Operators
+Basic field operators:
 
 $$\hat{I}(x,y,t) = \int \frac{d^{n-1}k}{(2\pi)^{n-1}} \frac{1}{\sqrt{2E_k^{(n)}}} [\hat{a}_k e^{-ik\cdot(x,y)} + \hat{a}^\dagger_k e^{ik\cdot(x,y)}]$$
 
-#### Relacja Nierozróżnialności
-Uogólniona relacja nieoznaczoności Heisenberga:
+#### Indistinguishability Relation
+Generalized Heisenberg uncertainty relation:
 
 $$\Delta x \Delta p \geq \frac{\hbar}{2}(1 + \alpha_1 M^{0.75} + \alpha_2 E^{0.6} + \alpha_3 I_{info} \cdot C)$$
 
-### 📊 Stałe i Parametry Fizyczne
+### 📊 Physical Constants and Parameters
 
-#### Podstawowe Stałe
-| Parametr | Wartość | Jednostka | Opis |
-|----------|---------|-----------|------|
-| $\mu_{holo}$ | $2.1 \times 10^{-4}$ | eV/c² | masa pola holograficznego |
-| $\lambda_4$ | $1.3 \times 10^{-16}$ | - | samosprzężenie pola holograficznego |
-| $\lambda_{HB}$ | $1.7 \times 10^{-12}$ | m³/J | sprzężenie holograficzno-biologiczne |
-| $\Lambda_{reg}$ | $3 \times 10^7$ | Hz | naturalna skala odcięcia |
-| $k_0$ | $1.7 \times 10^{-12}$ | m³/J | podstawowa stała sprzężenia |
+#### Fundamental Constants
+| Parameter | Value | Unit | Description |
+|---|---|---|---|
+| $\mu_{holo}$ | $2.1 \times 10^{-4}$ | eV/c² | holographic field mass |
+| $\lambda_4$ | $1.3 \times 10^{-16}$ | - | holographic field self-interaction |
+| $\lambda_{HB}$ | $1.7 \times 10^{-12}$ | m³/J | holographic-biological coupling |
+| $\Lambda_{reg}$ | $3 \times 10^7$ | Hz | natural cutoff scale |
+| $k_0$ | $1.7 \times 10^{-12}$ | m³/J | fundamental coupling constant |
 
-#### Parametry Dodatkowych Wymiarów
-- Liczba dodatkowych wymiarów: $n-4 = 6 \pm 2$
-- Masy modów wymiarowych: $M_k^2 = k \times \mu_{holo}^2 \times [1 + \delta_k e^{-k/k_c}]$
-- Stałe sprzężenia: $\eta_k = \eta_0 \times k^{-\beta}$, gdzie $\beta = 1.2 \pm 0.1$
+#### Extra Dimension Parameters
+- Number of extra dimensions: $n-4 = 6 \pm 2$
+- Mass of dimensional modes: $M_k^2 = k \times \mu_{holo}^2 \times [1 + \delta_k e^{-k/k_c}]$
+- Coupling constants: $\eta_k = \eta_0 \times k^{-\beta}$, where $\beta = 1.2 \pm 0.1$
 
-### 🔄 Równania Pola
+### 🔄 Field Equations
 
-#### Pełne Równanie Holograficzne
+#### Full Holographic Equation
 $$\Box^{(n)} I + \mu^2_{holo} I + \lambda_4 I^3 = \lambda_{HB} \rho_{bio}(x,t) + \sum_k [g_k \Psi^\dagger_k \Psi_k + h_k I (\Psi^\dagger_k \Psi_k)]$$
 
-#### Równania Biologiczne
+#### Biological Equations
 $$(\Box + \mu^2_M) \phi_M = S_{ATP}(x,t) + \alpha_{MI} I \left(\frac{\partial \phi_M}{\partial t}\right) + \beta_{MI} \rho_{bio}$$
 
 $$(\Box + \mu^2_E) A_{bio}^\mu = J^\mu_{ion} + \gamma_{EI} I J^\mu_{ion} + \delta_{EI} (\partial^\mu I)$$
@@ -108,59 +108,59 @@ $$(\Box + \mu^2_I) \phi_I = H_{shannon} + \epsilon_{II} I \phi_I + \zeta_{II} \n
 
 $$(\Box + \mu^2_C) \phi_C = N_{connections} + \eta_{CI} I \nabla^2 \phi_C + \theta_{CI} (\partial_\mu I)(\partial^\mu \phi_C)$$
 
-### 📈 Główne Wyniki Formalne
+### 📈 Main Formal Results
 
-#### 1. **Zachowanie Symetrii**
-- **Zachowanie energii-pędu**: $\partial_\mu T^{\mu\nu}_{total} = 0$
-- **Zachowanie prądu**: $\partial_\mu J^\mu_{total} = \partial_\mu J^\mu_{bio} + \partial_\mu J^\mu_{holo} \geq 0$
-- **Symetrie gauge**: $U(1)_{holo}^{(n)}$ zachowana w ℋⁿ
+#### 1. **Symmetry Conservation**
+- **Energy-Momentum Conservation**: $\partial_\mu T^{\mu\nu}_{total} = 0$
+- **Current Conservation**: $\partial_\mu J^\mu_{total} = \partial_\mu J^\mu_{bio} + \partial_\mu J^\mu_{holo} \geq 0$
+- **Gauge Symmetries**: $U(1)_{holo}^{(n)}$ preserved in ℋⁿ
 
-#### 2. **Kwantowa Spójność**
-- **Unitarność**: $SS^\dagger = I$ na $\mathcal{H}_{phys}$
-- **Cząstkowość**: $[\hat{I}(x), \hat{I}(y)] = 0$ dla separacji przestrzennych
-- **Stabilność próżni**: wszystkie stany własne mają $\text{Im}(\omega) = 0$
+#### 2. **Quantum Consistency**
+- **Unitarity**: $SS^\dagger = I$ on $\mathcal{H}_{phys}$
+- **Particle Nature**: $[\hat{I}(x), \hat{I}(y)] = 0$ for spacelike separations
+- **Vacuum Stability**: all eigenstates have $\text{Im}(\omega) = 0$
 
-#### 3. **Termodynamiczna Spójność**
-- **II zasada termodynamiki**: $dS_{total}/dt \geq 0$
-- **Relacje fluktuacyjno-dyfuzacyjne**: zachowane dla wszystkich pól
-- **Równowagowe rozkłady**: Gaussowskie z odpowiednimi korelacjami
+#### 3. **Thermodynamic Consistency**
+- **2nd Law of Thermodynamics**: $dS_{total}/dt \geq 0$
+- **Fluctuation-Dissipation Relations**: Preserved for all fields
+- **Equilibrium Distributions**: Gaussian with appropriate correlations
 
-#### 4. **Predykcje Eksperymentalne**
-- **Modyfikacja momentu magnetycznego**: $\Delta(g-2)_{electron} = 1.8 \times 10^{-15}$
-- **Czas dekoherencji**: $\tau_{decoherence} = \tau_0[1 + \alpha_1 M^{0.75} + \alpha_2 E^{0.6} + \alpha_3 I_{info} \cdot C]$
-- **Modyfikacja stałych sprzeń**: $\alpha(\mu) = \alpha(\mu_0)/[1 - (\alpha(\mu_0)/3\pi)\ln(\mu/\mu_0) - \text{corrections}]$
+#### 4. **Experimental Predictions**
+- **Magnetic Moment Modification**: $\Delta(g-2)_{electron} = 1.8 \times 10^{-15}$
+- **Decoherence Time**: $\tau_{decoherence} = \tau_0[1 + \alpha_1 M^{0.75} + \alpha_2 E^{0.6} + \alpha_3 I_{info} \cdot C]$
+- **Coupling Constant Modifications**: $\alpha(\mu) = \alpha(\mu_0)/[1 - (\alpha(\mu_0)/3\pi)\ln(\mu/\mu_0) - \text{corrections}]$
 
-### 🔗 Odsyłacze do Szczegółowych Dokumentów
+### 🔗 Links to Detailed Documents
 
-Aby uzyskać pełne wyprowadzenia i szczegółowe analizy, patrz:
+For full derivations and detailed analyses, see:
 
-- **[Complete Mathematical Unification](phase-2-mathematical-formalism/complete-mathematical-unification.md)** - Pełny formalizm matematyczny z dowodami
-- **[Quantum Mechanics Integration](phase-2-mathematical-formalism/quantum-mechanics-integration.md)** - Integracja z mechaniką kwantową
-- **[Standard Model Compatibility](phase-2-mathematical-formalism/standard-model-compatibility.md)** - Kompatybilność z Modelem Standardowym
-- **[Gravity Implications](phase-2-mathematical-formalism/gravity-implications.md)** - Implikacje grawitacyjne
-- **[Holographic Projection Mechanism](phase-2-mathematical-formalism/holographic-projection-mechanism.md)** - Mechanizm projekcji holograficznej
+- **[Complete Mathematical Unification](phase-2-mathematical-formalism/complete-mathematical-unification.md)** - Full mathematical formalism with proofs
+- **[Quantum Mechanics Integration](phase-2-mathematical-formalism/quantum-mechanics-integration.md)** - Integration with quantum mechanics
+- **[Standard Model Compatibility](phase-2-mathematical-formalism/standard-model-compatibility.md)** - Compatibility with the Standard Model
+- **[Gravity Implications](phase-2-mathematical-formalism/gravity-implications.md)** - Gravitational implications
+- **[Holographic Projection Mechanism](phase-2-mathematical-formalism/holographic-projection-mechanism.md)** - Holographic projection mechanism
 
-### 🧪 Metody Obliczeniowe
+### 🧪 Computational Methods
 
-#### Numeryczna Integracja
-- **Metody spektralne**: rozwinięcie w szeregi bazowe
-- **Adaptacyjne zagęszczenie siatki**: kontrola błędu
-- **Uczenie maszynowe**: przyspieszenie obliczeń złożonych terminów sprzężenia
+#### Numerical Integration
+- **Spectral methods**: expansion in basis series
+- **Adaptive grid refinement**: error control
+- **Machine learning**: acceleration of complex coupling term calculations
 
-#### Analiza Statystyczna
-- **Bayesowska rekonstrukcja pól**: $P(I,\{\Psi_k\}|data) \propto \mathcal{L}(data|I,\{\Psi_k\}) \times \text{Prior}(I,\{\Psi_k\})$
-- **Porównanie modeli**: czynniki Bayesa dla różnych wymiarowości
-- **Analiza wieloskalowa**: hierarchiczne protokoły eksperymentalne
+#### Statistical Analysis
+- **Bayesian field reconstruction**: $P(I,\{\Psi_k\}|data) \propto \mathcal{L}(data|I,\{\Psi_k\}) \times \text{Prior}(I,\{\Psi_k\})$
+- **Model comparison**: Bayes factors for different dimensionalities
+- **Multiscale analysis**: hierarchical experimental protocols
 
-### 📋 Podsumowanie Głównych Wyników
+### 📋 Summary of Main Results
 
-TSI 8.0 stanowi matematycznie kompletny i wewnętrznie spójny framework łączący:
-- **Mechanikę kwantową** z **teorią pola** i **świadomością biologiczną**
-- **Standardowy Model** z **pola holograficznymi** w przestrzeniach wyższych wymiarów
-- **Termodynamikę** z **informacją kwantową** i **procesami biologicznymi**
+TSI 8.0 constitutes a mathematically complete and internally consistent framework unifying:
+- **Quantum mechanics** with **field theory** and **biological consciousness**
+- **Standard Model** with **holographic fields** in higher-dimensional spaces
+- **Thermodynamics** with **quantum information** and **biological processes**
 
-Wszystkie predykcje są **ilościowe**, **falsyfikowalne** i **w zasięgu obecnej technologii**.
+All predictions are **quantitative**, **falsifiable**, and **within reach of current technology**.
 
 ---
 
-**Status Formalizmu**: ✅ **MATEMATYCZNIE KOMPLETNY I GOTOWY DO TESTÓW EKSPERYMENTALNYCH**
+**Formalism Status**: ✅ **MATHEMATICALLY COMPLETE AND READY FOR EXPERIMENTAL TESTS**

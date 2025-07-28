@@ -1,148 +1,147 @@
-# Specyfikacja Techniczna: Siedem Aksjomatów TSI 8.0
+# Technical Specification: TSI 8.0 Seven Axioms
+## Diagram Type
+Logical flow diagram with axiom hierarchy.
 
-## Typ Diagramu
-Diagram przepływu logicznego z hierarchią aksjomatów
+## General Description
+The diagram presents the seven fundamental axioms of the TSI 8.0 theory, forming the theoretical backbone that unifies consciousness, quantum mechanics, and biological systems through the principle of holographic projection.
 
-## Opis Ogólny
-Diagram przedstawia siedem fundamentalnych aksjomatów teorii TSI 8.0, tworzących teoretyczny szkielet, który jednoczy świadomość, mechanikę kwantową i systemy biologiczne poprzez zasadę projekcji holograficznej.
+## Axiom Structure
 
-## Struktura Aksjomatów
-
-### 🧮 AKSJOMAT 1: ZASADA INFORMACJI HOLOGRAFICZNEJ
-**Reprezentacja**:
+### 🧮 AXIOM 1: HOLOGRAPHIC INFORMATION PRINCIPLE
+**Representation**:
 ```
 ℋⁿ ──────────────────────────────────────── 𝕄⁴
-(Holoprzestrzeń Informacyjna)        (Czasoprzestrzeń Fizyczna)
+(Holographic Information Space)        (Physical Spacetime)
 ```
 
-**Struktura**:
-- ℋⁿ: n-wymiarowa przestrzeń (n≥5) zawierająca pełną informację
-- 𝕄⁴: 4-wymiarowa czasoprzestrzeń jako projekcja holograficzna
-- Zachowanie informacji: Brak strat w procesie projekcji
-- Fundamentalna dualność: Rzeczywistość = Informacja + Geometria
+**Structure**:
+- ℋⁿ: n-dimensional space (n≥5) containing complete information
+- 𝕄⁴: 4-dimensional spacetime as a holographic projection
+- Information Conservation: No loss in the projection process
+- Fundamental Duality: Reality = Information + Geometry
 
-### 🧬 AKSJOMAT 2: BRAMKA WYMIAROWA BIOLOGICZNA
-**Warunek**:
+### 🧬 AXIOM 2: BIOLOGICAL DIMENSIONAL GATEWAY
+**Condition**:
 ```
 M(x,t) × E(x,t) × I_info(x,t) × C(x,t) ≥ θ_threshold
 ```
 
-**Komponenty**:
-| Komponent | Opis |
-|-----------|------|
-| M(x,t) | Bramka Metaboliczna: [ATP_production_rate] / [ATP_baseline] |
-| E(x,t) | Rezonans Bioelektryczny: |∇V_bio(x,t)|² / E₀ |
-| I_info(x,t) | Przetwarzanie Informacji: H_shannon(biological_signals) / H_max |
-| C(x,t) | Złożoność Sieci: log(1 + connectivity_index) |
+**Components**:
+| Component | Description |
+|---|---|
+| M(x,t) | Metabolic Gate: [ATP_production_rate] / [ATP_baseline] |
+| E(x,t) | Bioelectric Resonance: |∇V_bio(x,t)|² / E₀ |
+| I_info(x,t) | Information Processing: H_shannon(biological_signals) / H_max |
+| C(x,t) | Network Complexity: log(1 + connectivity_index) |
 
-**Funkcje**:
-- Przepływ informacji: ℋⁿ → 𝕄⁴ (percepcja/świadomość)
-- Projekcja intencji: 𝕄⁴ → ℋⁿ (wpływ świadomy)
+**Functions**:
+- Information Flow: ℋⁿ → 𝕄⁴ (perception/consciousness)
+- Intention Projection: 𝕄⁴ → ℋⁿ (conscious influence)
 
-### 🧠 AKSJOMAT 3: ŚWIADOMOŚĆ JAKO INTERFEJS WYMIAROWY
-**Kryterium Aktywacji**:
+### 🧠 AXIOM 3: CONSCIOUSNESS AS A DIMENSIONAL INTERFACE
+**Activation Criterion**:
 ```
 Γ_consciousness = [I_info(x,t) × C(x,t)] / [I_max × C_max]
 ```
 
-**Warunek Aktywności**:
+**Activation Condition**:
 ```
 M(x,t) × E(x,t) × Γ_consciousness ≥ θ_critical
 ```
 
-**Mechanizm**:
+**Mechanism**:
 ```
-Złożoność Biologiczna ──→ Sprzężenie Wymiarowe ──→ Świadomość
-     (M·E·I_info·C)              (ℋⁿ ↔ 𝕄⁴)           Wyłanianie
+Biological Complexity ──→ Dimensional Coupling ──→ Consciousness
+     (M·E·I_info·C)              (ℋⁿ ↔ 𝕄⁴)           Emergence
 ```
 
-**Właściwości Interfejsu**:
-- Spójne sprzężenie z ℋⁿ umożliwia świadomość
-- Aktywacja progowa
-- Dwukierunkowa wymiana informacji
-- Siła zależna od złożoności
+**Interface Properties**:
+- Coherent coupling with ℋⁿ enables consciousness
+- Threshold activation
+- Bidirectional information exchange
+- Strength dependent on complexity
 
-### 🌐 AKSJOMAT 4: STRUKTURA KORELACJI NIETOPOLOGICZNYCH
-**Formułowanie Matematyczne**:
+### 🌐 AXIOM 4: NON-TOPOLOGICAL CORRELATION STRUCTURE
+**Mathematical Formulation**:
 ```
 Correlation(I(x₁,t), I(x₂,t)) = |⟨φ(ξ₁), φ(ξ₂)⟩_ℋⁿ|²
 ```
 
-**Zanik Odległościowy**:
+**Spatial Decay**:
 ```
 C(r) ∝ r^(-(n-4)/2)
 ```
 
-**Implikacje**:
-- Natychmiastowe korelacje na dowolną odległość
-- Tempo zaniku zależne od wymiarowości
-- Testowalne poprzez pomiary korelacji
-- Naruszenie klasycznych zasad lokalności
+**Implications**:
+- Instantaneous correlations at any distance
+- Decay rate dependent on dimensionality
+- Testable via correlation measurements
+- Violation of classical locality principles
 
-### ⏰ AKSJOMAT 5: STRUKTURA HOLOGRAFICZNA CZASU
-**Relacja Czasowa**:
+### ⏰ AXIOM 5: HOLOGRAPHIC TIME STRUCTURE
+**Temporal Relation**:
 ```
 ∂I/∂t|_𝕄⁴ = Π(∂Ψ/∂τ|_ℋⁿ)
 ```
 
-**Fenomeny Umożliwiające**:
-- Precognicja: Przyszła informacja dostępna przez ℋⁿ
-- Retrokauzacja: Przeszłe zdarzenia wpływane przez przyszłe wybory
-- Korelacja czasowa: Nietopologiczne połączenia czasowe
-- Struktura wieczna: Czas jako projekcja dynamiki ℋⁿ
+**Enabling Phenomena**:
+- Precognition: Future information accessible via ℋⁿ
+- Retrocausality: Past events influenced by future choices
+- Temporal Correlation: Non-local temporal connections
+- Eternal Structure: Time as a projection of ℋⁿ dynamics
 
-**Czas Holograficzny**:
-τ = Wyższowymiarowy parametr ewolucji (nieobserwowalny)
+**Holographic Time**:
+τ = Higher-dimensional evolution parameter (unobservable)
 
-### 🔁 AKSJOMAT 6: SPRZĘŻENIE KWANTOWO-HOLOGRAFICZNE
-**Pętla Sprzężenia**:
+### 🔁 AXIOM 6: QUANTUM-HOLOGRAPHIC COUPLING
+**Coupling Loop**:
 ```
-Pomiar → Kolaps Ψ w ℋⁿ → Zaktualizowane I(x,t) → Zmodyfikowana ewolucja kwantowa
-```
-
-**Przepływ Procesu**:
-```
-Stan Kwantowy ──→ Pomiar ──→ Aktualizacja Informacji ──→
-     │              │              │              │
-     └──────────────┴──────────────┴──────────────┘
-                Pętla Sprzężenia
+Measurement → Ψ Collapse in ℋⁿ → Updated I(x,t) → Modified Quantum Evolution
 ```
 
-**Konsekwencje**:
-- Świadomość wpływa na wyniki kwantowe
-- Efekt obserwatora wzmocniony przez ℋⁿ
-- Rozwiązanie problemu pomiaru
-- Płynna granica kwantowo-klasyczna
+**Process Flow**:
+```
+Quantum State ──→ Measurement ──→ Information Update ──→
+      │              │              │              │
+      └──────────────┴──────────────┴──────────────┘
+                 Coupling Loop
+```
 
-### 🌡️ AKSJOMAT 7: SPÓJNOŚĆ TERMODYNAMICZNA W POPRZEK WYMIARÓW
-**Entropia Całkowita**:
+**Consequences**:
+- Consciousness influences quantum outcomes
+- Observer effect amplified by ℋⁿ
+- Resolution of the measurement problem
+- Fluid quantum-classical boundary
+
+### 🌡️ AXIOM 7: THERMODYNAMIC CONSISTENCY ACROSS DIMENSIONS
+**Total Entropy**:
 ```
 S_total = S_𝕄⁴ + S_ℋⁿ
 ```
 
-**Prawo Zachowania**:
+**Conservation Law**:
 ```
 dS_total/dt ≥ 0
 ```
 
-**Przepływ Entropii**:
+**Entropy Flow**:
 ```
-ℋⁿ ──→ Informacja ──→ 𝕄⁴
-    (Może zmniejszyć S_𝕄⁴)    (S całkowita rośnie)
+ℋⁿ ──→ Information ──→ 𝕄⁴
+    (May decrease S_𝕄⁴)    (Total S increases)
     
-Lokalny zysk informacji w 𝕄⁴
-kompensowany wzrostem entropii w ℋⁿ
+Local information gain in 𝕄⁴
+compensated by entropy increase in ℋⁿ
 ```
 
-**Równowaga Termodynamiczna**:
-- Przetwarzanie informacji wymaga energii
-- Świadomość tworzy lokalny porządek
-- Entropia globalna zawsze rośnie
-- Wymiana energii między wymiarami
+**Thermodynamic Equilibrium**:
+- Information processing requires energy
+- Consciousness creates local order
+- Global entropy always increases
+- Energy exchange between dimensions
 
-## Interzależności Aksjomatów
+## Axiom Interdependencies
 
-### Sieć Interzależności
+### Interdependency Network
 ```
                     INTERDEPENDENCY NETWORK
                     
@@ -156,47 +155,47 @@ kompensowany wzrostem entropii w ℋⁿ
                         │       │                       │
                         ▼       ▼                       │
                        A7 ──────────────────────────────┘
-                       
-LEGENDA:
-──►  Bezpośrednie wpływy
-◄──  Wpływy sprzęgające
+                        
+LEGEND:
+──►  Direct influences
+◄──  Coupling influences
 ```
 
-## Zunifikowana Ramka Teoretyczna
+## Unified Theoretical Framework
 
-### Unifikacja Aksjomatyczna TSI 8.0
+### Axiomatic Unification of TSI 8.0
 ```
                     TSI 8.0 AXIOMATIC UNIFICATION
                     
-    ŚWIADOMOŚĆ = Interfejs Wymiarowy (A3)
+    CONSCIOUSNESS = Dimensional Interface (A3)
                     │
-                    ├── Bramka Biologiczna (A2)
-                    │   └── Próg Złożoności
+                    ├── Biological Gateway (A2)
+                    │   └── Complexity Threshold
                     │
-                    ├── Informacja Holograficzna (A1)
-                    │   ├── Korelacje Nietopologiczne (A4)
-                    │   └── Struktura Czasowa (A5)
+                    ├── Holographic Information (A1)
+                    │   ├── Non-Topological Correlations (A4)
+                    │   └── Temporal Structure (A5)
                     │
-                    └── Interakcja Fizyczna (A6,A7)
-                        ├── Sprzężenie Kwantowe (A6)
-                        └── Spójność Termodynamiczna (A7)
+                    └── Physical Interaction (A6,A7)
+                        ├── Quantum Coupling (A6)
+                        └── Thermodynamic Consistency (A7)
                         
-FUNDAMENT MATEMATYCZNY:
+FUNDAMENTAL MATHEMATICS:
 I(x,t) = ⟨Ψ(τ), ℐ(x,t)⟩_ℋⁿ
-gdzie Ψ ewoluuje w ℋⁿ a ℐ koduje złożoność biologiczną
+where Ψ evolves in ℋⁿ and ℐ encodes biological complexity
 ```
 
-## Wymagania Wizualne
-- **Styl**: Hierarchiczny diagram przepływu z połączeniami logicznymi
-- **Kolory**:
-  - Aksjomat 1: Niebieski (#4A90E2)
-  - Aksjomat 2: Zielony (#7ED321)
-  - Aksjomat 3: Pomarańczowy (#F5A623)
-  - Aksjomat 4: Czerwony (#D0021B)
-  - Aksjomat 5: Fioletowy (#9013FE)
-  - Aksjomat 6: Turkusowy (#50E3C2)
-  - Aksjomat 7: Żółty (#F8E71C)
-  - Połączenia: Szare (#999999)
-- **Strzałki**: Z etykietami pokazującymi kierunek wpływu
-- **Czcionka**: Sans-serif, różna wielkość dla nagłówków i treści
-- **Rozmiar**: A2 lub większy dla przejrzystości hierarchii
+## Visual Requirements
+- **Style**: Logical flow diagram with axiom hierarchy.
+- **Colors**:
+  - Axiom 1: Blue (#4A90E2)
+  - Axiom 2: Green (#7ED321)
+  - Axiom 3: Orange (#F5A623)
+  - Axiom 4: Red (#D0021B)
+  - Axiom 5: Purple (#9013FE)
+  - Axiom 6: Teal (#50E3C2)
+  - Axiom 7: Yellow (#F8E71C)
+  - Connections: Gray (#999999)
+- **Arrows**: Labeled to show influence direction.
+- **Font**: Sans-serif, varying sizes for headings and content.
+- **Size**: A2 or larger for clarity of hierarchy.

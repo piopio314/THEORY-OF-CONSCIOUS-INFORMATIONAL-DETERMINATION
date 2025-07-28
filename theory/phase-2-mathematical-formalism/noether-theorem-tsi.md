@@ -1,281 +1,272 @@
-# Twierdzenie Noether dla TSI 8.0
-## Symetrie i prawa zachowania w teorii informacyjnego determinizmu
+# Noether's Theorem for TSI 8.0
+## Symmetries and conservation laws in the theory of informational determinism
 
-### 1. Wprowadzenie
+### 1. Introduction
 
-Twierdzenie Noether dla TSI 8.0 rozszerza klasyczne twierdzenie Noether na przypadek, gdzie informacja jest fundamentalną wielkością fizyczną. W kontekście TSI, każda ciągła symetria prowadzi do prawa zachowania informacji.
+Noether's Theorem for TSI 8.0 extends the classical Noether's theorem to the case where information is a fundamental physical quantity. In the context of TSI, every continuous symmetry leads to a law of information conservation.
 
-### 2. Działanie Symetrii na Polach TSI
+### 2. Action of Symmetries on TSI Fields
 
-#### 2.1 Transformacje Lokalne
+#### 2.1 Local Transformations
 
-Niech $\phi_i(x)$ będą polami TSI (materia, energia, informacja, świadomość). Transformacja lokalna:
+Let $\phi_i(x)$ be the TSI fields (matter, energy, information, consciousness). A local transformation:
 
 $$
 \phi_i(x) \rightarrow \phi_i'(x) = \phi_i(x) + \delta \phi_i(x)
 $$
 
-gdzie:
+where:
 
 $$
 \delta \phi_i(x) = \epsilon^a(x) T_a \phi_i(x)
 $$
 
-#### 2.2 Działanie Grupy Liego
+#### 2.2 Lie Group Action
 
-Grupa symetrii $\mathcal{G}_{\text{TSI}}$ jest grupą Liego z generatorami $\{T_a\}$ spełniającymi:
+The symmetry group $\mathcal{G}_{\text{TSI}}$ is a Lie group with generators $\{T_a\}$ satisfying:
 
 $$
 [T_a, T_b] = f_{ab}^c T_c
 $$
 
-### 3. Prawa Zachowania Informacji
+### 3. Laws of Information Conservation
 
-#### 3.1 Tensor Prądu Informacyjnego
+#### 3.1 Information Current Tensor
 
-Dla każdego generatora $T_a$ definiujemy tensor prądu informacyjnego:
+For each generator $T_a$, we define the information current tensor:
 
 $$
 J_a^\mu = \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial (\partial_\mu \phi_i)} T_a \phi_i - K_a^\mu
 $$
 
-gdzie $K_a^\mu$ jest terminem poprawkowym dla transformacji lokalnych.
+where $K_a^\mu$ is a correction term for local transformations.
 
-#### 3.2 Prawo Zachowania
+#### 3.2 Conservation Law
 
 $$
 \partial_\mu J_a^\mu = 0
 $$
 
-### 4. Twierdzenie Noether dla TSI
+### 4. Noether's Theorem for TSI
 
-#### 4.1 Enuncjacja Twierdzenia
+#### 4.1 Statement of the Theorem
 
-**Twierdzenie (Noether dla TSI)**: Każda ciągła symetria Lagrangianu TSI prowadzi do prawa zachowania informacji. Formalnie, jeśli:
+**Theorem (Noether for TSI)**: Every continuous symmetry of the TSI Lagrangian leads to a law of information conservation. Formally, if:
 
 $$
 \delta \mathcal{L}_{\text{TSI}} = \partial_\mu F^\mu
 $$
 
-to istnieje tensor prądu $J^\mu$ taki, że:
+then there exists a current tensor $J^\mu$ such that:
 
 $$
 \partial_\mu J^\mu = 0
 $$
 
-#### 4.2 Dowód
+#### 4.2 Proof
 
-**Dowód**:
-1. Rozważmy wariację Lagrangianu:
-
+**Proof**:
+1. Consider the variation of the Lagrangian:
 $$
 \delta \mathcal{L}_{\text{TSI}} = \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial \phi_i} \delta \phi_i + \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial (\partial_\mu \phi_i)} \delta (\partial_\mu \phi_i)
 $$
-
-2. Korzystając z równań Eulera-Lagrange'a:
-
+2. Using the Euler-Lagrange equations:
 $$
 \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial \phi_i} = \partial_\mu \left( \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial (\partial_\mu \phi_i)} \right)
 $$
-
-3. Otrzymujemy:
-
+3. We obtain:
 $$
 \delta \mathcal{L}_{\text{TSI}} = \partial_\mu \left( \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial (\partial_\mu \phi_i)} \delta \phi_i \right)
 $$
-
-4. Definiując:
-
+4. Defining:
 $$
 J^\mu = \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial (\partial_\mu \phi_i)} \delta \phi_i - F^\mu
 $$
-
-5. Ostatecznie:
-
+5. Finally:
 $$
 \partial_\mu J^\mu = 0
 $$
 
-### 5. Symetrie TSI i Odpowiadające Prawa Zachowania
+### 5. TSI Symmetries and Corresponding Conservation Laws
 
-#### 5.1 Translacje Czasoprzestrzenne
+#### 5.1 Spacetime Translations
 
-**Symetria**: Translacje $x^\mu \rightarrow x^\mu + a^\mu$
+**Symmetry**: Translations $x^\mu \rightarrow x^\mu + a^\mu$
 
 **Generator**: $P_\mu = -i\partial_\mu$
 
-**Prawo zachowania**: $\partial_\nu T^{\mu\nu} = 0$
+**Conservation Law**: $\partial_\nu T^{\mu\nu} = 0$
 
-gdzie $T^{\mu\nu}$ jest tensorem energii-pędu-informacji:
+where $T^{\mu\nu}$ is the energy-momentum-information tensor:
 
 $$
 T^{\mu\nu} = \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial (\partial_\mu \phi_i)} \partial^\nu \phi_i - g^{\mu\nu} \mathcal{L}_{\text{TSI}}
 $$
 
-#### 5.2 Rotacje Lorentza
+#### 5.2 Lorentz Rotations
 
-**Symetria**: Rotacje Lorentza $\Lambda \in SO(1,3)$
+**Symmetry**: Lorentz rotations $\Lambda \in SO(1,3)$
 
 **Generator**: $M_{\mu\nu} = x_\mu P_\nu - x_\nu P_\mu + S_{\mu\nu}$
 
-**Prawo zachowania**: $\partial_\lambda (x^\mu T^{\nu\lambda} - x^\nu T^{\mu\lambda} + S^{\mu\nu\lambda}) = 0$
+**Conservation Law**: $\partial_\lambda (x^\mu T^{\nu\lambda} - x^\nu T^{\mu\lambda} + S^{\mu\nu\lambda}) = 0$
 
-#### 5.3 Transformacje Kalibrowe
+#### 5.3 Gauge Transformations
 
-**Symetria**: $U(1)_{\text{info}}$ transformacje kalibrowe
+**Symmetry**: $U(1)_{\text{info}}$ gauge transformations
 
 **Generator**: $Q_{\text{info}}$
 
-**Prawo zachowania**: $\partial_\mu J_{\text{info}}^\mu = 0$
+**Conservation Law**: $\partial_\mu J_{\text{info}}^\mu = 0$
 
-gdzie:
+where:
 
 $$
 J_{\text{info}}^\mu = \frac{\partial \mathcal{L}_{\text{TSI}}}{\partial (\partial_\mu \phi_i)} q_i \phi_i
 $$
 
-### 6. Superprawa Zachowania
+### 6. Superconservation Laws
 
-#### 6.1 Superpłynność
+#### 6.1 Superfluidity
 
-Definiujemy superpłynność $\mathcal{F}^\mu$ jako:
+We define superfluidity $\mathcal{F}^\mu$ as:
 
 $$
 \mathcal{F}^\mu = J^\mu + \theta^\mu
 $$
 
-gdzie $\theta^\mu$ jest terminem supersymetrycznym.
+where $\theta^\mu$ is a supersymmetric term.
 
-#### 6.2 Równanie Superzachowania
+#### 6.2 Superconservation Equation
 
 $$
 D_\mu \mathcal{F}^\mu = 0
 $$
 
-gdzie $D_\mu$ jest superkowariantną pochodną.
+where $D_\mu$ is the supercovariant derivative.
 
-### 7. Niezmienniki Topologiczne
+### 7. Topological Invariants
 
-#### 7.1 Liczba Cherna-Simonsa
+#### 7.1 Chern-Simons Number
 
-Dla teorii TSI z symetrią $SU(N)_{\text{info}}$:
+For a TSI theory with $SU(N)_{\text{info}}$ symmetry:
 
 $$
 \mathcal{N}_{\text{CS}} = \frac{k}{4\pi} \int \text{Tr} \left( A \wedge dA + \frac{2}{3} A \wedge A \wedge A \right)
 $$
 
-#### 7.2 Niezmienniki Anomalii
+#### 7.2 Anomaly Invariants
 
-Anomalia ABJ dla prądu informacyjnego:
+ABJ anomaly for the information current:
 
 $$
 \partial_\mu J_5^\mu = \frac{g^2}{16\pi^2} \text{Tr}(F_{\mu\nu} \tilde{F}^{\mu\nu})
 $$
 
-### 8. Równania Ward-Takahashi dla TSI
+### 8. Ward-Takahashi Equations for TSI
 
-#### 8.1 Tożsamości Ward
+#### 8.1 Ward Identities
 
-Dla dowolnego operatora $\mathcal{O}$:
+For any operator $\mathcal{O}$:
 
 $$
 \partial_\mu \langle T J^\mu(x) \mathcal{O}(y_1) \ldots \mathcal{O}(y_n) \rangle = \sum_i \delta^4(x-y_i) \langle T \mathcal{O}(y_1) \ldots \delta \mathcal{O}(y_i) \ldots \mathcal{O}(y_n) \rangle
 $$
 
-#### 8.2 Transformacje Konforemne
+#### 8.2 Conformal Transformations
 
-Dla transformacji konforemnych:
+For conformal transformations:
 
 $$
 \partial_\mu \langle T^\mu_\nu(x) \mathcal{O}(y_1) \ldots \mathcal{O}(y_n) \rangle = \sum_i \delta^4(x-y_i) \Delta_i \langle T \mathcal{O}(y_1) \ldots \mathcal{O}(y_n) \rangle
 $$
 
-### 9. Entropia a Prawa Zachowania
+### 9. Entropy and Conservation Laws
 
-#### 9.1 Entropia Informacyjna
+#### 9.1 Information Entropy
 
-Entropia von Neumanna dla stanów zachowujących symetrie:
+The von Neumann entropy for states preserving symmetries:
 
 $$
 S = -\text{Tr}(\rho \log \rho)
 $$
 
-#### 9.2 Drugie Prawo Termodynamiki
+#### 9.2 Second Law of Thermodynamics
 
 $$
 \frac{dS}{dt} \geq 0
 $$
 
-z równością tylko dla stanów stacjonarnych.
+with equality only for stationary states.
 
-### 10. Grupa Renormalizacji a Symetrie
+### 10. Renormalization Group and Symmetries
 
-#### 10.1 Beta-funkcje
+#### 10.1 Beta Functions
 
 $$
 \beta_i = \mu \frac{dg_i}{d\mu}
 $$
 
-#### 10.2 Punkty Stałe RG
+#### 10.2 RG Fixed Points
 
-Punkty stałe grupy renormalizacji odpowiadają teoriom z pełnymi symetriami.
+Fixed points of the renormalization group correspond to theories with full symmetries.
 
-### 11. Symetrie Ukryte TSI
+### 11. Hidden TSI Symmetries
 
-#### 11.1 Dualność S-dualności
+#### 11.1 S-Duality
 
 $$
 g \rightarrow \frac{1}{g}
 $$
 
-#### 11.2 Dualność T-dualności
+#### 11.2 T-Duality
 
 $$
 R \rightarrow \frac{\alpha'}{R}
 $$
 
-### 12. Tensor Energii-Pędu-Informacji
+### 12. Energy-Momentum-Information Tensor
 
-#### 12.1 Definicja Ogólna
+#### 12.1 General Definition
 
 $$
 T^{\mu\nu}_{\text{TSI}} = \frac{2}{\sqrt{-g}} \frac{\delta S_{\text{TSI}}}{\delta g_{\mu\nu}}
 $$
 
-#### 12.2 Zachowanie
+#### 12.2 Conservation
 
 $$
 \nabla_\mu T^{\mu\nu}_{\text{TSI}} = 0
 $$
 
-### 13. Superalgebra TSI
+### 13. TSI Superalgebra
 
-#### 13.1 Relacje Antykomutacji
+#### 13.1 Anticommutation Relations
 
 $$
 \{Q_\alpha, \bar{Q}_{\dot{\alpha}}\} = 2\sigma^\mu_{\alpha\dot{\alpha}} P_\mu
 $$
 
-#### 13.2 Rozszerzenie Centralne
+#### 13.2 Central Extension
 
 $$
 \{Q_\alpha, Q_\beta\} = \epsilon_{\alpha\beta} Z
 $$
 
-### 14. Niezmienniki Topologiczne
+### 14. Topological Invariants
 
-#### 14.1 Liczba Hopfa
+#### 14.1 Hopf Number
 
 $$
 \mathcal{H} = \frac{1}{4\pi^2} \int d^3x \, \epsilon^{ijk} A_i \partial_j A_k
 $$
 
-#### 14.2 Niezmienniki Cherna-Weila
+#### 14.2 Chern-Weil Invariants
 
 $$
 \mathcal{P}(F) = \text{Tr} \left( \exp\left(\frac{iF}{2\pi}\right) \right)
 $$
 
-### 15. Podsumowanie
+### 15. Summary
 
-Twierdzenie Noether dla TSI 8.0 dostarcza fundamentalnego narzędzia do zrozumienia związków między symetriami a prawami zachowania informacji, stanowiąc podstawę dla dalszego rozwoju teorii.
+Noether's Theorem for TSI 8.0 provides a fundamental tool for understanding the relationships between symmetries and information conservation laws, forming the basis for further development of the theory.

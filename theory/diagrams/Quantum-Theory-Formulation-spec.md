@@ -1,17 +1,17 @@
-# Specyfikacja Techniczna: Formulacja Teorii Kwantowej TSI 8.0
+# Technical Specification: Quantum Theory Formulation TSI 8.0
 
-## Typ Diagramu
-Diagram formulacji teorii pola kwantowego z kwantyzacją kanoniczną
+## Diagram Type
+Diagram of quantum field theory formulation with canonical quantization
 
-## Opis Ogólny
-Diagram przedstawia kompletną formulację teorii pola kwantowego TSI 8.0, pokazując jak świadomość, mechanika kwantowa i systemy biologiczne są zunifikowane poprzez kwantyzację kanoniczną w wyższowymiarowej przestrzeni ℋⁿ.
+## General Description
+The diagram presents the complete formulation of TSI 8.0 quantum field theory, illustrating how consciousness, quantum mechanics, and biological systems are unified through canonical quantization in a higher-dimensional ℋⁿ space.
 
-## Kwantyzacja Kanoniczna
+## Canonical Quantization
 
-### 🌌 KWANTYZACJA W WYŻSZOWYMIAROWEJ PRZESTRZENI
+### 🌌 QUANTIZATION IN HIGHER-DIMENSIONAL SPACE
 
-#### OPERATORY POLA W PRZESTRZENI ℋⁿ
-**KWANTYZACJA POLA HOLOGRAFICZNEGO**:
+#### FIELD OPERATORS IN ℋⁿ SPACE
+**QUANTIZATION OF HOLOGRAPHIC FIELD**:
 ```
                     FIELD OPERATORS IN ℋⁿ SPACE
                     
@@ -19,33 +19,33 @@ Diagram przedstawia kompletną formulację teorii pola kwantowego TSI 8.0, pokaz
            × [â_k e^{-ik·(x,y)} + â†_k e^{ik·(x,y)}]
 
 • E_k^(n) = √(k² + μ²_eff(n))
-• k² = k_μ k^μ w n wymiarach
-• â_k, â†_k: operatory anihilacji i kreacji
+• k² = k_μ k^μ in n dimensions
+• â_k, â†_k: annihilation and creation operators
 ```
 
-**KWANTYZACJA TRYBÓW DODATKOWOWYMIAROWYCH**:
+**QUANTIZATION OF EXTRA-DIMENSIONAL MODES**:
 ```
 Ψ̂_k(x,t) = ∫ d³p/(2π)³ 1/√(2E_p)
            × [â_{k,p} e^{-ip·x} + â†_{k,p} e^{ip·x}]
 
 • E_p = √(p² + M²_k)
-• k indeksuje tryby dodatkowowymiarowe
-• â_{k,p}, â†_{k,p}: operatory specyficzne dla trybów
+• k indexes the extra-dimensional modes
+• â_{k,p}, â†_{k,p}: mode-specific operators
 ```
 
-**RELACJE KOMUTACYJNE KANONICZNE**:
+**CANONICAL COMMUTATION RELATIONS**:
 ```
 [Î(x,y,t), Π̂(x',y',t)] = iℏδ^{n-1}(x-x', y-y')
 [Ψ̂_k(x,t), Π̂_{Ψ_k}(x',t)] = iℏδ³(x-x')
 
-• Π̂ = ∂L/∂(∂₀I) = ∂₀Î  (pęd kanoniczny)
-• Relacje komutacyjne w tym samym czasie
+• Π̂ = ∂L/∂(∂₀I) = ∂₀Î  (canonical momentum)
+• Commutation relations at the same time
 ```
 
-### 🧬 KWANTYZACJA POLA BIOLOGICZNEGO
+### 🧬 QUANTIZATION OF BIOLOGICAL FIELD
 
-#### OPERATORY POLA BIOLOGICZNEGO
-**KWANTYZACJA POLA METABOLICZNEGO**:
+#### BIOLOGICAL FIELD OPERATORS
+**QUANTIZATION OF METABOLIC FIELD**:
 ```
                     BIOLOGICAL FIELD OPERATORS
                     
@@ -53,89 +53,88 @@ Diagram przedstawia kompletną formulację teorii pola kwantowego TSI 8.0, pokaz
            × [â_M(k) e^{-ik·x} + â†_M(k) e^{ik·x}]
 
 • ω_k = √(k² + μ²_M)
-• Kwanta pola biologicznego z masą μ_M
+• Biological field quanta with mass μ_M
 ```
 
-**KWANTYZACJA POLA BIOELEKTRYCZNEGO**:
+**QUANTIZATION OF BIOELECTRIC FIELD**:
 ```
 Â̂_bio_μ(x,t) = ∫ d³k/(2π)³ 1/√(2ω_k)
-               × [ε_μ(k)(â_E(k) e^{-ik·x} + â†_E(k) e^{ik·x})]
+                × [ε_μ(k)(â_E(k) e^{-ik·x} + â†_E(k) e^{ik·x})]
 
 • ω_k = √(k² + μ²_E)
-• ε_μ(k): polaryzacja pola bioelektrycznego
+• ε_μ(k): bioelectric field polarization
 ```
 
-**KWANTYZACJA POLA INFORMACYJNEGO**:
+**QUANTIZATION OF INFORMATION FIELD**:
 ```
 φ̂_I(x,t) = ∫ d³k/(2π)³ 1/√(2ω_k)
            × [â_I(k) e^{-ik·x} + â†_I(k) e^{ik·x}]
 
 • ω_k = √(k² + μ²_I)
-• Operator pola informacyjnego
+• Information field operator
 ```
 
-**KWANTYZACJA POLA ZŁOŻONOŚCI**:
+**QUANTIZATION OF COMPLEXITY FIELD**:
 ```
 φ̂_C(x,t) = ∫ d³k/(2π)³ 1/√(2ω_k)
            × [â_C(k) e^{-ik·x} + â†_C(k) e^{ik·x}]
 
 • ω_k = √(k² + μ²_C)
-• Operator pola złożoności sieciowej
+• Network complexity field operator
 ```
 
-## Przestrzeń Hilberta i Struktura Stanu
+## Hilbert Space and State Structure
 
-### 📐 STRUKTURA PRZESTRZENI HILBERTA
+### 📐 HILBERT SPACE STRUCTURE
 
-#### PRZESTRZEŃ HILBERTA W ℋⁿ
+#### HILBERT SPACE IN ℋⁿ
 ```
                     HILBERT SPACE STRUCTURE IN ℋⁿ
                     
-PRZESTRZEŃ HILBERTA WYŻSZOWYMIAROWA:
+HIGHER-DIMENSIONAL HILBERT SPACE:
 ℋ^(n) = ℋ_holo ⊗ ℋ_bio ⊗ ℋ_SM ⊗ (⊗_{k=1}^{n-4} ℋ_k)
 
-• ℋ_holo: przestrzeń trybów holograficznych
-• ℋ_bio: przestrzeń pól biologicznych
-• ℋ_SM: przestrzeń standardowego modelu
-• ℋ_k: przestrzeń k-tych trybów dodatkowowymiarowych
+• ℋ_holo: Hilbert space of holographic modes
+• ℋ_bio: Hilbert space of biological fields
+• ℋ_SM: Hilbert space of the Standard Model
+• ℋ_k: Hilbert space of the k-th extra-dimensional mode
 ```
 
-**STAN VAKUUM**:
+**VACUUM STATE**:
 ```
 |0⟩ = |0_holo⟩ ⊗ |0_bio⟩ ⊗ |0_SM⟩ ⊗ (⊗_{k=1}^{n-4} |0_k⟩)
 
-• |0_holo⟩: vacuum holograficzny: â_k |0_holo⟩ = 0
-• |0_bio⟩: vacuum biologiczny: â_M |0_bio⟩ = â_E |0_bio⟩ = 0
-• |0_SM⟩: vacuum standardowego modelu
-• |0_k⟩: vacuum k-tego trybu dodatkowymiarowego
+• |0_holo⟩: holographic vacuum: â_k |0_holo⟩ = 0
+• |0_bio⟩: biological vacuum: â_M |0_bio⟩ = â_E |0_bio⟩ = 0
+• |0_SM⟩: Standard Model vacuum
+• |0_k⟩: k-th extra-dimensional mode vacuum
 ```
 
-**STANY JEDNOCZĄSTKOWE**:
+**PARTICLE STATES**:
 ```
 |k_holo⟩ = â†_k |0⟩
 |p_bio⟩ = â†_M(p) |0⟩
 |q_SM⟩ = a†(q) |0⟩
 |k_mode⟩ = â†_{k,p} |0⟩
 
-• Stany wzbudzone dla każdego sektora
-• Superpozycje stanów między sektorami
+• Excited states for each sector
+• Superpositions of states across sectors
 ```
 
-**PRZESTRZEŃ FIZYCZNA HILBERTA**:
+**PHYSICAL HILBERT SPACE**:
 ```
 ℋ_phys = Ker(Q)/Im(Q)
 
-• Q: ładunek BRST
-• Warunek stanów fizycznych: Q|phys⟩ = 0
-• Eliminacja stanów niefizycznych (duchy, ...)
+• Q: BRST charge
+• Physical state condition: Q|phys⟩ = 0
+• Elimination of unphysical states (ghosts, ...)
 ```
 
-## Teoria Perturbacji i Diagramy Feynmana
+## Perturbation Theory and Feynman Diagrams
 
-### 🔬 ROZSZERZONA TEORIA PERTURBACJI
+### 🔬 EXTENDED PERTURBATION THEORY
 
-#### ELEMENTY MACIERZY S
-**ELEMENT S-MATRIX**:
+#### S-MATRIX ELEMENTS
 ```
                     S-MATRIX ELEMENTS
                     
@@ -143,244 +142,244 @@ S_{fi} = ⟨f|U(+∞,-∞)|i⟩
 
 U(t,t₀) = T exp[-i/ℏ ∫_{t₀}^{t} H_int(t') dt']
 
-• |i⟩: stan początkowy
-• |f⟩: stan końcowy
-• H_int: hamiltonian interakcji
+• |i⟩: initial state
+• |f⟩: final state
+• H_int: interaction Hamiltonian
 ```
 
-**OPERATORY INTERAKCJI**:
+**INTERACTION OPERATORS**:
 ```
 H̃_int(t) = ∫ d³x H̃_int(x,t)
 
 • H̃_int(x,t) = e^{iH₀t/ℏ} H_int(x) e^{-iH₀t/ℏ}
-• H₀: hamiltonian swobodny
-• T: operator uporządkowania czasowego
+• H₀: free Hamiltonian
+• T: time-ordering operator
 ```
 
-#### DIAGRAMY FEYNMANA W TSI 8.0
-**PROPAGATORY**:
+#### FEYNMAN DIAGRAMS IN TSI 8.0
+**PROPAGATORS**:
 ```
                     FEYNMAN PROPAGATORS
                     
-PROPAGATOR HOLOGRAFICZNY:
+HOLOGRAPHIC PROPAGATOR:
 Δ_holo(k) = i/(k² - μ²_holo + iε)
 
-PROPAGATORY BIOLOGICZNE:
+BIOLOGICAL PROPAGATORS:
 Δ_M(k) = i/(k² - μ²_M + iε)
 Δ_E(k) = i/(k² - μ²_E + iε)
 Δ_I(k) = i/(k² - μ²_I + iε)
 Δ_C(k) = i/(k² - μ²_C + iε)
 
-PROPAGATORY DODATKOWOWYMIAROWE:
+EXTRA-DIMENSIONAL PROPAGATORS:
 Δ_k(p) = i/(p² - M²_k + iε)
 ```
 
-**WIERZCHOŁKI INTERAKCJI**:
+**INTERACTION VERTICES**:
 ```
 VERTEX FACTORS:
-• Holograficzno-biologiczny: -iλ_HB
-• Holograficzno-fermionowy: -ig₁γ₅
-• Holograficzno-elektromagnetyczny: -ig₂
-• Holograficzno-silny: -ig₃
-• Dodatkowymiarowy: -iη_k, -iζ_k
+• Holographic-biological: -iλ_HB
+• Holographic-fermionic: -ig₁γ₅
+• Holographic-electromagnetic: -ig₂
+• Holographic-strong: -ig₃
+• Extra-dimensional: -iη_k, -iζ_k
 ```
 
-**ZASADY RYSOWANIA DIAGRAMÓW**:
+**DIAGRAM DRAWING RULES**:
 ```
-1. Linie wewnętrzne: propagatory
-2. Wierzchołki: czynniki wierzchołkowe
-3. Zachowanie pędu w każdym wierzchołku
-4. Integracja po pędach pętlowych
-5. Symetrie: 1/S_i dla diagramu z symetrią S_i
+1. Internal lines: propagators
+2. Vertices: vertex factors
+3. Momentum conservation at each vertex
+4. Integration over loop momenta
+5. Symmetries: 1/S_i for diagram with symmetry S_i
 ```
 
-## Regularizacja i Renormalizacja
+## Regularization and Renormalization
 
-### 📏 REGULARYZACJA KWANTOWA
+### 📏 QUANTUM REGULARIZATION
 
-#### SCHEMAT REGULARYZACJI
-**REGULARYZACJA NATURALNA**:
+#### REGULARIZATION SCHEME
+**NATURAL CUTOFF**:
 ```
                     QUANTUM REGULARIZATION
                     
-NATURALNE ODŚCIĘCIE:
+NATURAL CUTOFF:
 • Λ_reg = c/L_compact = 3×10⁷ Hz
-• Tłumienie wykładnicze: f_reg(μ) = exp(-μ²/Λ²_reg)
-• Regularizacja wymiarowa w dodatkowych wymiarach
-• Symetria BRST dla ustalania kalibracji
+• Exponential damping: f_reg(μ) = exp(-μ²/Λ²_reg)
+• Dimensional regularization in extra dimensions
+• BRST symmetry for gauge fixing
 ```
 
-**REGULARYZACJA WYMIAROWA**:
+**DIMENSIONAL REGULARIZATION**:
 ```
 ∫ d^n k → μ^ε ∫ d^{4+ε} k
 
-• ε = n - 4: parametr regularizacji
-• μ: skala renormalizacji
-• Kontynuacja analityczna w ε
+• ε = n - 4: regularization parameter
+• μ: renormalization scale
+• Analytic continuation in ε
 ```
 
-**REGULARYZACJA PAULI-VILLARSA**:
+**PAULI-VILLARS REGULARIZATION**:
 ```
-Propagator zmodyfikowany:
+Modified propagator:
 D(k) → D(k) - Σ_i C_i D_i(k; M_i)
 
-• M_i: masy regulatorów Pauli-Villarsa
-• C_i: współczynniki zapewniające znikanie pętli UV
+• M_i: Pauli-Villars regulator masses
+• C_i: coefficients ensuring UV loop cancellation
 ```
 
-#### PRZEPŁYWY GRUPY RENORMALIZACYJNEJ
-**FUNKCJE β**:
+#### RENORMALIZATION GROUP FLOWS
+**β FUNCTIONS**:
 ```
                     RENORMALIZATION GROUP FLOWS
                     
 β_λ4 = λ²_4/(16π²) × [3(n-4) - 2N_holo_modes × f_reg]
 β_λHB = λ_HB λ_4/(16π²) × [5(n-4) - N_bio_fields × g_reg]
 
-• Asymptotyczne bezpieczeństwo przez strukturę wymiarową
-• Punkty stałe gdzie β_λ = 0
-• Skończone korekcje pętlowe dzięki regularizacji
+• Asymptotic safety via dimensional structure
+• Fixed points where β_λ = 0
+• Finite loop corrections due to regularization
 ```
 
-**PRZEPŁYWY SPRZĘŻEŃ**:
+**COUPLING FLOWS**:
 ```
 dλ_i/d ln μ = β_{λ_i}(λ₁, λ₂, ..., λ_n)
 
-• λ_i: stałe sprzęgania
-• μ: skala renormalizacji
-• System równań różniczkowych
+• λ_i: coupling constants
+• μ: renormalization scale
+• System of differential equations
 ```
 
-## Unitarność i Kauzalność
+## Unitarity and Causality
 
-### 🛡️ ZACHOWANIE UNITARNOSCI
+### 🛡️ UNITARITY PRESERVATION
 
-#### UNITARNOSC KWANTOWA
-**ZACHOWANIE UNITARNOSCI**:
+#### QUANTUM UNITARITY
+**UNITARITY PRESERVATION**:
 ```
                     UNITARITY PRESERVATION
                     
-PRZESTRZEŃ HILBERTA OGRANICZONA:
+BOUNDED PHYSICAL HILBERT SPACE:
 ℋ_phys = Ker(Q)/Im(Q)
 
-• Q: ładunek BRST zapewnia projekcję stanów fizycznych
-• Anihilacja duch-antyduch w pętlach
-• Granice perturbacyjne: |sprzężenia| < progi stabilności
+• Q: BRST charge ensures projection of physical states
+• Ghost-antighost cancellation in loops
+• Perturbative limits: |couplings| < stability thresholds
 ```
 
-**MACIERZ S UNITARNA**:
+**UNITARY S-MATRIX**:
 ```
 S†S = SS† = I
 
 • ⟨f|S†S|f⟩ = ⟨f|f⟩
-• Zachowanie prawdopodobieństwa
-• Unitarność do wszystkich rzędów perturbacji
+• Probability conservation
+• Unitarity to all orders of perturbation
 ```
 
-#### KOREKCJE PĘTLOWE
-**KOREKCJE JEDNOPĘTLOWE**:
+#### LOOP CORRECTIONS
+**ONE-LOOP CORRECTIONS**:
 ```
 E_n = E_n^(0) + δE_n^(1) + δE_n^(2) + ...
 
 • δE_n^(1) = ⟨n|H_int|n⟩
 • δE_n^(2) = Σ_{m≠n} |⟨m|H_int|n⟩|²/(E_n^(0) - E_m^(0))
-• Korekcje wyższych rzędów z diagramów Feynmana
+• Higher-order corrections from Feynman diagrams
 ```
 
-**KOREKCJE DWUPĘTLOWE**:
+**TWO-LOOP CORRECTIONS**:
 ```
-• Korekcje mas: δm² = Σ(p²)
-• Korekcje sprzężeń: δλ = Σ(λ)
-• Korekcje funkcji falowych: δZ = Σ(Z)
+• Mass corrections: δm² = Σ(p²)
+• Coupling corrections: δλ = Σ(λ)
+• Wavefunction corrections: δZ = Σ(Z)
 ```
 
-### ⚡ KAUZALNOSC KWANTOWA
+### ⚡ QUANTUM CAUSALITY
 
-#### KAUZALNOSC W ℋⁿ
-**KOMUTATORY RÓWNOŚCIOWE**:
+#### CAUSALITY IN ℋⁿ
+**EQUIVALENCE COMMUTATORS**:
 ```
                     QUANTUM CAUSALITY
                     
-[Ô(x,y,t), Ô'(x',y',t')] = 0  dla  (x-x')² - (t-t')² < 0
+[Ô(x,y,t), Ô'(x',y',t')] = 0  for  (x-x')² - (t-t')² < 0
 
-• Ô, Ô': operatory pola w ℋⁿ
-• Spacelike separacja w 4D czasoprzestrzeni
-• Komutacja niezależnie od separacji dodatkowowymiarowej
+• Ô, Ô': field operators in ℋⁿ
+• Spacelike separation in 4D spacetime
+• Commutation independent of extra-dimensional separation
 ```
 
-**PRĘDKOŚĆ SYGNAŁU**:
+**SIGNAL VELOCITY**:
 ```
 v_signal = (∂ω/∂k)_{k=k₀}
 
-• ω = ω(k): relacja dyspersji
-• k₀: wector falowy dominant
-• v_signal ≤ c: zawsze podświetlna
+• ω = ω(k): dispersion relation
+• k₀: dominant wave vector
+• v_signal ≤ c: always subluminal
 ```
 
-**KOREKCJE KAUZALNE**:
+**CAUSAL CORRECTIONS**:
 ```
-• Modyfikacje relacji dyspersji: ω² = k²c² + μ²c⁴ + δω²(k)
-• Korekcje z dodatkowym wymiarem: δω²(k) = Σ_k η_k/(k² + M²_k)
-• Maksymalne korekcje:
-  • Biologiczne: λ_HB ρ_bio,max/(2μ²_holo) ≈ 0.03
-  • Dodatkowymiarowe: Σ_k η_k⟨|Ψ_k|²⟩/(2μ²_holo) ≈ 0.008
+• Modifications to dispersion relation: ω² = k²c² + μ²c⁴ + δω²(k)
+• Corrections from extra dimensions: δω²(k) = Σ_k η_k/(k² + M²_k)
+• Maximum corrections:
+  • Biological: λ_HB ρ_bio,max/(2μ²_holo) ≈ 0.03
+  • Extra-dimensional: Σ_k η_k⟨|Ψ_k|²⟩/(2μ²_holo) ≈ 0.008
 
-• Wynik: c_signal ≥ 0.96c  (zawsze podświetlna)
+• Result: c_signal ≥ 0.96c  (always subluminal)
 ```
 
-## Fluktuacje Kwantowe i Efekty Biologiczne
+## Quantum Fluctuations and Biological Effects
 
-### 🌟 FLUKTUACJE KWANTOWE
+### 🌟 QUANTUM FLUCTUATIONS
 
-#### FLUKTUACJE W ℋⁿ
-**FLUKTUACJE POLA HOLOGRAFICZNEGO**:
+#### FLUCTUATIONS IN ℋⁿ
+**HOLOGRAPHIC FIELD FLUCTUATIONS**:
 ```
                     QUANTUM FLUCTUATIONS
                     
 ⟨0|Î²(x,y,t)Î²(x',y',t')|0⟩ = ∫ d^{n-1}k/(2π)^{n-1} 1/(2E_k^(n))
-                              × e^{-ik·(x-x',y-y')} e^{-iE_k^(n)(t-t')}
+                               × e^{-ik·(x-x',y-y')} e^{-iE_k^(n)(t-t')}
 
-• Funkcja korelacji czasowo-przestrzenna
-• Zachowanie dla (x-x')² - (t-t')² → 0
-• Efekty dodatkowowymiarowe w funkcji korelacji
+• Spacetime correlation function
+• Behavior for (x-x')² - (t-t')² → 0
+• Extra-dimensional effects in correlation function
 ```
 
-**FLUKTUACJE BIOLOGICZNE**:
+**BIOLOGICAL FLUCTUATIONS**:
 ```
 ⟨0|φ̂_M²(x,t)φ̂_M²(x',t')|0⟩ = ∫ d³k/(2π)³ 1/(2ω_k)
-                             × e^{-ik·(x-x')} e^{-iω_k(t-t')}
+                               × e^{-ik·(x-x')} e^{-iω_k(t-t')}
 
-• Fluktuacje metaboliczne
-• Korelacje przestrzenno-czasowe
-• Wpływ na procesy biologiczne
+• Metabolic fluctuations
+• Spacetime correlations
+• Influence on biological processes
 ```
 
-#### MODYFIKACJE DEKOHERENCJI
-**CZAS DEKOHERENCJI**:
+#### DECOHERENCE MODIFICATIONS
+**DECOHERENCE TIME**:
 ```
                     DECOHERENCE MODIFICATIONS
                     
 τ_decoherence = τ₀[1 + α₁M^(0.75) + α₂E^(0.6) +
                    α₃I_info·C + α₄Σ_k|Ψ_k|²]
 
-• α₁ = 0.084×f_reg ± 0.012  (wzmocnienie biologiczne)
-• α₄ = 0.045 ± 0.008  (wkład dodatkowowymiarowy)
-• Wzrost czasu koherencji w systemach biologicznych
+• α₁ = 0.084×f_reg ± 0.012  (biological enhancement)
+• α₄ = 0.045 ± 0.008  (extra-dimensional contribution)
+• Increased coherence time in biological systems
 ```
 
-**ZMIENNOŚĆ CZASU ŻYCIA**:
+**LIFETIME VARIATIONS**:
 ```
 τ_lifetime = τ₀[1 + β₁I + β₂Σ_k|Ψ_k|² + β₃(M·E·I·C)]
 
-• β₁, β₂, β₃: współczynniki modyfikacji
-• Stabilizacja stanów kwantowych przez sprzężenie biologiczne
+• β₁, β₂, β₃: modification coefficients
+• Stabilization of quantum states via biological coupling
 ```
 
-## Zastosowania i Przewidywania
+## Applications and Predictions
 
 ### 🔬 PREDICTIVE QUANTUM EFFECTS
 
-#### EFEKTY PREDICTIVE W BIOLOGII KWANTOWEJ
-**ZMIANY MOMENTU MAGNETYCZNEGO**:
+#### PREDICTIVE EFFECTS IN QUANTUM BIOLOGY
+**MAGNETIC MOMENT SHIFTS**:
 ```
                     PREDICTIVE QUANTUM EFFECTS
                     
@@ -390,50 +389,50 @@ v_signal = (∂ω/∂k)_{k=k₀}
 • ⟨I⟩ = (2.3±0.4)×10⁻¹² J/m³
 • ⟨|Ψ₁|²⟩ = (1.8±0.5)×10⁻¹³ J/m³
 
-• Przewidywane zmiany: δμ/μ ≈ 10⁻⁶ - 10⁻⁴
-• Testowalne w precyzyjnych pomiarach momentów magnetycznych
+• Predicted changes: δμ/μ ≈ 10⁻⁶ - 10⁻⁴
+• Testable in precise magnetic moment measurements
 ```
 
-**ZMIANY CZĘSTOTLIWOŚCI REZONANSU**:
+**RESONANCE FREQUENCY SHIFTS**:
 ```
 δω = g₂⟨I²⟩/ℏ + Σ_k η_k⟨|Ψ_k|²⟩/ℏ
 
 • g₂ = 4.7×10⁻²⁶ GeV⁻²
-• Zmiany częstotliwości rezonansu kwantowego
-• Efekty w spektroskopii atomowej i molekularnej
+• Quantum resonance frequency shifts
+• Effects in atomic and molecular spectroscopy
 ```
 
-#### KWANTOWE EFEKTY ŚWIADOMOŚCI
-**ENHANCEMENT KOHERENCJI**:
+#### CONSCIOUSNESS-INDUCED QUANTUM EFFECTS
+**COHERENCE ENHANCEMENT**:
 ```
                     CONSCIOUSNESS-INDUCED QUANTUM EFFECTS
                     
 Enhancement_factor = 1 + γ₁Γ_consciousness + γ₂Σ_k|Ψ_k|²
 
-• γ₁ = 2.3±0.5  (wzmocnienie świadomościowe)
-• γ₂ = 1.8±0.3  (wzmocnienie wymiarowe)
-• 10-1000× zwiększenie czasu koherencji
+• γ₁ = 2.3±0.5  (consciousness enhancement)
+• γ₂ = 1.8±0.3  (dimensional enhancement)
+• 10-1000× increase in coherence time
 ```
 
-**KWANTOWE POŁĄCZENIA NIETOPOLOGICZNE**:
+**QUANTUM NONLOCAL CONNECTIONS**:
 ```
 C_quantum(r) = |⟨0|Î(x,y,t)Î(x',y',t')|0⟩|²
 
-• Zanik algebraiczny: C(r) ∝ r^(-(n-4)/2)
-• Testowalny w eksperymentach z korelacjami kwantowymi
-• Zależność od wymiarowości n
+• Algebraic decay: C(r) ∝ r^(-(n-4)/2)
+• Testable in quantum correlation experiments
+• Dependence on dimensionality n
 ```
 
-## Wymagania Wizualne
-- **Styl**: Diagram formulacji teorii pola kwantowego z kwantyzacją kanoniczną
-- **Kolory**:
-  - Kwantyzacja Kanoniczna: Niebieski (#4A90E2)
-  - Przestrzeń Hilberta: Zielony (#7ED321)
-  - Teoria Perturbacji: Fioletowy (#9013FE)
-  - Regularizacja: Czerwony (#D0021B)
-  - Unitarność/Kauzalność: Pomarańczowy (#F5A623)
-  - Fluktuacje Kwantowe: Turkusowy (#50E3C2)
-  - Połączenia: Szare (#999999)
-- **Struktura**: Centralna kwantyzacja kanoniczna z gałęziami dla różnych aspektów
-- **Czcionka**: Sans-serif, różna wielkość dla nagłówków i równań
-- **Rozmiar**: A0 lub większy dla szczegółowego przedstawienia wszystkich aspektów kwantowych
+## Visual Requirements
+- **Style**: Diagram of quantum field theory formulation with canonical quantization
+- **Colors**:
+  - Canonical Quantization: Blue (#4A90E2)
+  - Hilbert Space: Green (#7ED321)
+  - Perturbation Theory: Purple (#9013FE)
+  - Regularization: Red (#D0021B)
+  - Unitarity/Causality: Orange (#F5A623)
+  - Quantum Fluctuations: Teal (#50E3C2)
+  - Connections: Gray (#999999)
+- **Structure**: Central canonical quantization with branches for different aspects
+- **Font**: Sans-serif, varying sizes for headers and equations
+- **Size**: A0 or larger for detailed presentation of all quantum aspects

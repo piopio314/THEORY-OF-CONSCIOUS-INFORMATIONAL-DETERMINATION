@@ -1,159 +1,159 @@
-# Charakteryzacja Matematyczna Pola Informacyjnego I(x)
-## Formalna definicja i własności pola I(x) w TSI 8.0
+# Mathematical Characterization of the Information Field I(x)
+## Formal definition and properties of the I(x) field in TSI 8.0
 
-### 1. Definicja Fundamentalna
+### 1. Fundamental Definition
 
-Pole informacyjne I(x) jest zdefiniowane jako operator-wartościowe pole skalarne na czasoprzestrzeni Minkowskiego:
+The information field I(x) is defined as an operator-valued scalar field on Minkowski spacetime:
 
 $$
 I: \mathbb{M}^4 \rightarrow \mathcal{L}(\mathcal{H}_{\text{info}})
 $$
 
-gdzie $\mathcal{L}(\mathcal{H}_{\text{info}})$ jest przestrzenią operatorów liniowych na przestrzeni Hilberta informacji.
+where $\mathcal{L}(\mathcal{H}_{\text{info}})$ is the space of linear operators on the information Hilbert space.
 
-### 2. Struktura Algebraiczna
+### 2. Algebraic Structure
 
-#### 2.1 Algebra Operatorów Informacyjnych
+#### 2.1 Algebra of Information Operators
 
-Pole I(x) należy do algebry von Neumanna $\mathcal{A}_{\text{info}}$ z działaniem:
+The field I(x) belongs to the von Neumann algebra $\mathcal{A}_{\text{info}}$ with the action:
 
 $$
 [I(x), I(y)] = i\hbar_{\text{info}} C(x,y) \hat{1}
 $$
 
-gdzie $C(x,y)$ jest funkcją korelacji informacyjnej, a $\hbar_{\text{info}}$ jest stałą informacyjną.
+where $C(x,y)$ is the information correlation function, and $\hbar_{\text{info}}$ is the information constant.
 
-#### 2.2 Struktura *-algebry
+#### 2.2 *-algebra Structure
 
-Dla każdego $x \in \mathbb{M}^4$:
+For each $x \in \mathbb{M}^4$:
 
 $$
-I(x)^* = I(x) \quad \text{(hermitowskość)}
+I(x)^* = I(x) \quad \text{(hermiticity)}
 $$
 
 $$
 I(x)I(y) + I(y)I(x) = 2G(x,y)\hat{1}
 $$
 
-gdzie $G(x,y)$ jest funkcją Greena informacyjnej propagacji.
+where $G(x,y)$ is the information propagation Green's function.
 
-### 3. Równania Ruchu
+### 3. Equations of Motion
 
-#### 3.1 Równanie Kleina-Gordona dla Pola Informacyjnego
+#### 3.1 Klein-Gordon Equation for the Information Field
 
 $$
 (\Box + m_I^2) I(x) = 0
 $$
 
-gdzie:
-- $\Box = \partial_\mu \partial^\mu$ jest d'Alembertianem
-- $m_I$ jest masą informacyjną pola
+where:
+- $\Box = \partial_\mu \partial^\mu$ is the d'Alembertian
+- $m_I$ is the information mass of the field
 
-#### 3.2 Równanie Schrödingera dla Pola
+#### 3.2 Schrödinger Equation for the Field
 
-W reprezentacji Schrödingera:
+In the Schrödinger representation:
 
 $$
 i\hbar_{\text{info}} \frac{\partial}{\partial t} I(t,\vec{x}) = \hat{H}_{\text{info}} I(t,\vec{x})
 $$
 
-z hamiltonianem informacyjnym:
+with the information Hamiltonian:
 
 $$
 \hat{H}_{\text{info}} = \int d^3x \left[ \frac{1}{2} \pi_I^2 + \frac{1}{2} (\nabla I)^2 + \frac{1}{2} m_I^2 I^2 \right]
 $$
 
-### 4. Funkcje Wightmana
+### 4. Wightman Functions
 
-#### 4.1 Dwupunktowa Funkcja Wightmana
+#### 4.1 Two-Point Wightman Function
 
 $$
 W(x,y) = \langle 0 | I(x) I(y) | 0 \rangle = \int \frac{d^4k}{(2\pi)^4} \frac{i}{k^2 - m_I^2 + i\epsilon} e^{-ik\cdot(x-y)}
 $$
 
-#### 4.2 Trzypunktowa Funkcja
+#### 4.2 Three-Point Function
 
 $$
 W(x,y,z) = \langle 0 | I(x) I(y) I(z) | 0 \rangle = \lambda_{\text{info}} \int d^4k_1 d^4k_2 \frac{e^{-i(k_1\cdot x + k_2\cdot y - (k_1+k_2)\cdot z)}}{(k_1^2 - m_I^2)(k_2^2 - m_I^2)((k_1+k_2)^2 - m_I^2)}
 $$
 
-### 5. Transformacje Symetrii
+### 5. Symmetry Transformations
 
-#### 5.1 Transformacje Lorentza
+#### 5.1 Lorentz Transformations
 
-Pod działaniem transformacji Lorentza $\Lambda \in SO(1,3)$:
+Under Lorentz transformations $\Lambda \in SO(1,3)$:
 
 $$
 U(\Lambda) I(x) U(\Lambda)^{-1} = I(\Lambda x)
 $$
 
-#### 5.2 Translacje
+#### 5.2 Translations
 
 $$
 U(a) I(x) U(a)^{-1} = I(x+a)
 $$
 
-### 6. Kwantowa Teoria Pola Informacyjnego
+### 6. Quantum Information Field Theory
 
-#### 6.1 Rozwinięcie w Operatory Tworzące i Anihilacji
+#### 6.1 Expansion in Creation and Annihilation Operators
 
 $$
 I(x) = \int \frac{d^3k}{(2\pi)^3 2\omega_k} \left[ a(\vec{k}) e^{-ik\cdot x} + a^\dagger(\vec{k}) e^{ik\cdot x} \right]
 $$
 
-z relacjami kanonicznymi:
+with canonical relations:
 
 $$
 [a(\vec{k}), a^\dagger(\vec{k}')] = (2\pi)^3 2\omega_k \delta^3(\vec{k}-\vec{k}')
 $$
 
-#### 6.2 Stan Podstawowy
+#### 6.2 Ground State
 
-Stan próżni $|0\rangle$ jest zdefiniowany przez:
+The vacuum state $|0\rangle$ is defined by:
 
 $$
 a(\vec{k}) |0\rangle = 0 \quad \forall \vec{k}
 $$
 
-### 7. Entropia Pola Informacyjnego
+### 7. Information Field Entropy
 
-#### 7.1 Entropia von Neumanna
+#### 7.1 von Neumann Entropy
 
-Dla stanu $\rho$:
+For a state $\rho$:
 
 $$
 S[\rho] = -\text{Tr}(\rho \log \rho)
 $$
 
-#### 7.2 Entropia Relatywna
+#### 7.2 Relative Entropy
 
 $$
 S(\rho || \sigma) = \text{Tr}(\rho \log \rho - \rho \log \sigma)
 $$
 
-### 8. Korelacje Informacyjne
+### 8. Information Correlations
 
-#### 8.1 Funkcja Korelacji
+#### 8.1 Correlation Function
 
 $$
 C(x,y) = \langle I(x) I(y) \rangle - \langle I(x) \rangle \langle I(y) \rangle
 $$
 
-#### 8.2 Długość Korelacji
+#### 8.2 Correlation Length
 
 $$
 \xi_{\text{info}} = \left( \frac{\int d^4x \, x^2 C(x,0)}{\int d^4x \, C(x,0)} \right)^{1/2}
 $$
 
-### 9. Tensor Energii-Pędu
+### 9. Energy-Momentum Tensor
 
-Tensor energii-pędu pola informacyjnego:
+The energy-momentum tensor of the information field:
 
 $$
 T_{\mu\nu}^{(I)} = \partial_\mu I \partial_\nu I - \frac{1}{2} g_{\mu\nu} (\partial_\alpha I \partial^\alpha I - m_I^2 I^2)
 $$
 
-Spełnia lokalne prawo zachowania:
+Satisfies the local conservation law:
 
 $$
 \partial^\mu T_{\mu\nu}^{(I)} = 0
@@ -161,80 +161,80 @@ $$
 
 ### 10. Entanglement Entropy
 
-Dla podobszaru $A \subset \mathbb{M}^4$:
+For a subregion $A \subset \mathbb{M}^4$:
 
 $$
 S_A = -\text{Tr}(\rho_A \log \rho_A)
 $$
 
-gdzie $\rho_A = \text{Tr}_{\bar{A}} |\Psi\rangle \langle \Psi|$ jest zredukowanym operatorem gęstości.
+where $\rho_A = \text{Tr}_{\bar{A}} |\Psi\rangle \langle \Psi|$ is the reduced density matrix.
 
-### 11. Anomalia Konforemna
+### 11. Conformal Anomaly
 
-Anomalia śladu energii-pędu:
+The trace anomaly of the energy-momentum tensor:
 
 $$
 T_\mu^\mu = \frac{\beta(\lambda_{\text{info}})}{2\lambda_{\text{info}}} \partial_\mu I \partial^\mu I
 $$
 
-### 12. Grupa Renormalizacji
+### 12. Renormalization Group
 
-Równanie grupy renormalizacji dla stałej sprzężenia:
+The renormalization group equation for the coupling constant:
 
 $$
 \mu \frac{d\lambda_{\text{info}}}{d\mu} = \beta(\lambda_{\text{info}}) = \frac{3\lambda_{\text{info}}^2}{16\pi^2}
 $$
 
-### 13. Dualność S-dualności
+### 13. S-Duality
 
-Pod działaniem S-dualności:
+Under S-duality:
 
 $$
 I(x) \rightarrow \tilde{I}(x) = \frac{1}{\lambda_{\text{info}}} I(x)
 $$
 
-### 14. Topologia Pola
+### 14. Field Topology
 
-Klasa Cherna dla wiązki informacyjnej:
+The Chern class for the information bundle:
 
 $$
 c_1 = \frac{1}{2\pi} \int_{\Sigma} F^{(I)}
 $$
 
-gdzie $F^{(I)} = dA^{(I)}$ jest krzywizną wiązki.
+where $F^{(I)} = dA^{(I)}$ is the bundle curvature.
 
-### 15. Graniczne Warunki
+### 15. Boundary Conditions
 
-#### 15.1 Warunki Brzegowe Dirichleta
+#### 15.1 Dirichlet Boundary Conditions
 
 $$
 I(x)|_{\partial \mathcal{M}} = I_0(x)
 $$
 
-#### 15.2 Warunki Brzegowe Neumanna
+#### 15.2 Neumann Boundary Conditions
 
 $$
 n^\mu \partial_\mu I(x)|_{\partial \mathcal{M}} = 0
 $$
 
-### 16. Termodynamika Pola Informacyjnego
+### 16. Thermodynamics of the Information Field
 
-#### 16.1 Temperatura Hawkinga
+#### 16.1 Hawking Temperature
 
 $$
 T_H = \frac{\hbar_{\text{info}} \kappa}{2\pi}
 $$
 
-gdzie $\kappa$ jest powierzchniową przyspieszeniem grawitacyjnym.
+where $\kappa$ is the surface gravity.
 
-#### 16.2 Potencjał Chemiczny
+#### 16.2 Chemical Potential
 
 $$
 \mu_{\text{info}} = \frac{\partial F}{\partial N_{\text{info}}}
 $$
 
-gdzie $F$ jest energią swobodną Helmholtza.
+where $F$ is the Helmholtz free energy.
 
-### 17. Podsumowanie
+### 17. Summary
 
-Pole informacyjne I(x) stanowi fundamentalny byt kwantowy w TSI 8.0, łączący w sobie własności klasycznych pól z kwantową naturą informacji. Jego matematyczna struktura zapewnia solidne podstawy dla dalszego rozwoju teorii.
+The information field I(x) is a fundamental quantum entity in TSI 8.0, combining properties of classical fields with the quantum nature of information. Its mathematical structure provides a solid foundation for the further development of the theory.

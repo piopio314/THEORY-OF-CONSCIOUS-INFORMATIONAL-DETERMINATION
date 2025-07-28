@@ -1,14 +1,14 @@
-# Diagramy Integracyjne Fazy 4 - TSI 8.0
+# Phase 4 Integration Diagrams - TSI 8.0
 
-## Diagram 1: Architektura Integracji Cross-Domain
+## Diagram 1: Cross-Domain Integration Architecture
 
 ```mermaid
 graph TD
-    A[Faza 1: Filozofia] -->|Formalizacja| B[Faza 2: Matematyka]
-    B -->|Aplikacja| C[Faza 3: Biologia]
-    C -->|Redukcja| D[Chemia]
-    D -->|Ekstrapolacja| E[Neurobiologia]
-    E -->|Skalowanie| F[Kosmologia]
+    A[Phase 1: Philosophy] -->|Formalization| B[Phase 2: Mathematics]
+    B -->|Application| C[Phase 3: Biology]
+    C -->|Reduction| D[Chemistry]
+    D -->|Extrapolation| E[Neurobiology]
+    E -->|Scaling| F[Cosmology]
     
     G[physics-biology-bridge.md] --> H[MEIC Tensor]
     H --> I[Quantum-Biological Interface]
@@ -30,25 +30,25 @@ graph TD
     style F fill:#9ff,stroke:#333
 ```
 
-## Diagram 2: Przepływ Informacji Między Dziedzinami
+## Diagram 2: Information Flow Between Domains
 
 ```mermaid
 flowchart LR
-    subgraph "Dane Wejściowe"
-        P1[Filozofia: Koncepty]
-        P2[Matematyka: Równania]
-        P3[Biologia: Dane]
-        P4[Chemia: Struktury]
+    subgraph "Input Data"
+        P1[Philosophy: Concepts]
+        P2[Mathematics: Equations]
+        P3[Biology: Data]
+        P4[Chemistry: Structures]
     end
     
-    subgraph "Proces Integracji"
-        I1[Tensor MEIC]
-        I2[Holografia]
+    subgraph "Integration Process"
+        I1[MEIC Tensor]
+        I2[Holography]
         I3[Cross-Domain]
         I4[Validation]
     end
     
-    subgraph "Dane Wyjściowe"
+    subgraph "Output Data"
         O1[physics-biology-bridge.md]
         O2[mathematics-philosophy-formalization.md]
         O3[chemistry-neurobiology-integration.md]
@@ -70,46 +70,46 @@ flowchart LR
     I4 --> O4
 ```
 
-## Diagram 3: Punkty Synchronizacji
+## Diagram 3: Synchronization Points
 
 ```mermaid
 graph TD
-    subgraph "Punkt A: Filozofia → Matematyka"
-        A1[Aksjomaty Filozoficzne]
-        A2[Formalizacja Matematyczna]
+    subgraph "Point A: Philosophy → Mathematics"
+        A1[Philosophical Axioms]
+        A2[Mathematical Formalization]
         A3[Validation]
         A1 --> A2 --> A3
     end
     
-    subgraph "Punkt B: Matematyka → Fizyka"
-        B1[Tensor MEIC]
+    subgraph "Point B: Mathematics → Physics"
+        B1[MEIC Tensor]
         B2[Quantum Models]
         B3[Biological Translation]
         B1 --> B2 --> B3
     end
     
-    subgraph "Punkt C: Fizyka → Biologia"
+    subgraph "Point C: Physics → Biology"
         C1[Quantum Effects]
         C2[Biological Systems]
         C3[Testable Predictions]
         C1 --> C2 --> C3
     end
     
-    subgraph "Punkt D: Biologia → Chemia"
+    subgraph "Point D: Biology → Chemistry"
         D1[Molecular Mechanisms]
         D2[Neural Networks]
         D3[System Integration]
         D1 --> D2 --> D3
     end
     
-    subgraph "Punkt E: Chemia → Neurobiologia"
+    subgraph "Point E: Chemistry → Neurobiology"
         E1[Chemical Reactions]
         E2[Neurotransmission]
         E3[Consciousness Interface]
         E1 --> E2 --> E3
     end
     
-    subgraph "Punkt F: Neurobiologia → Kosmologia"
+    subgraph "Point F: Neurobiology → Cosmology"
         F1[Brain Scale]
         F2[Cosmic Scale]
         F3[Global Consciousness]
@@ -117,15 +117,15 @@ graph TD
     end
 ```
 
-## Diagram 4: Struktura Tensora MEIC
+## Diagram 4: MEIC Tensor Structure
 
 ```mermaid
 graph TD
-    subgraph "Tensor MEIC 4-rank"
-        M[Materia<br/>μ index]
-        E[Energia<br/>ν index]
-        I[Informacja<br/>ρ index]
-        C[Świadomość<br/>σ index]
+    subgraph "4-rank MEIC Tensor"
+        M[Matter<br/>μ index]
+        E[Energy<br/>ν index]
+        I[Information<br/>ρ index]
+        C[Consciousness<br/>σ index]
         
         M --> ME[M×E]
         E --> EI[E×I]
@@ -143,10 +143,10 @@ graph TD
         CME --> MEIC
     end
     
-    subgraph "Symetrie"
-        S1[Cykliczna]
-        S2[Przestawna]
-        S3[Hermitowska]
+    subgraph "Symmetries"
+        S1[Cyclic]
+        S2[Permutation]
+        S3[Hermitian]
         
         MEIC -.-> S1
         MEIC -.-> S2
@@ -154,91 +154,91 @@ graph TD
     end
 ```
 
-## Diagram 5: Proces Walidacji Cross-Domain
+## Diagram 5: Cross-Domain Validation Process
 
 ```mermaid
 sequenceDiagram
-    participant F1 as Faza 1
-    participant F2 as Faza 2
-    participant F3 as Faza 3
+    participant F1 as Phase 1
+    participant F2 as Phase 2
+    participant F3 as Phase 3
     participant INT as Integrator
     participant VAL as Validator
     participant OUT as Output
     
-    F1->>INT: Filozoficzne aksjomaty
-    F2->>INT: Równania matematyczne
-    F3->>INT: Dane biologiczne
+    F1->>INT: Philosophical axioms
+    F2->>INT: Mathematical equations
+    F3->>INT: Biological data
     
-    INT->>INT: Tensor MEIC
-    INT->>INT: Holografia
+    INT->>INT: MEIC Tensor
+    INT->>INT: Holography
     INT->>INT: Cross-domain mapping
     
-    INT->>VAL: Dokumenty integracyjne
-    VAL->>VAL: Spójność semantyczna
-    VAL->>VAL: Walidacja matematyczna
-    VAL->>VAL: Testy graniczne
+    INT->>VAL: Integration documents
+    VAL->>VAL: Semantic consistency
+    VAL->>VAL: Mathematical validation
+    VAL->>VAL: Boundary tests
     
     VAL->>OUT: physics-biology-bridge.md
     VAL->>OUT: mathematics-philosophy-formalization.md
     VAL->>OUT: chemistry-neurobiology-integration.md
     VAL->>OUT: cosmology-consciousness-global.md
     
-    OUT->>OUT: Faza 5 ready
+    OUT->>OUT: Phase 5 ready
 ```
 
-## Diagram 6: Timeline Implementacji
+## Diagram 6: Implementation Timeline
 
 ```mermaid
 gantt
-    title Faza 4 - Timeline Implementacji
+    title Phase 4 - Implementation Timeline
     dateFormat  YYYY-MM-DD
-    section Dokumenty
+    section Documents
     physics-biology-bridge    :2025-07-29, 3d
     mathematics-philosophy    :2025-08-01, 3d
     chemistry-neurobiology    :2025-08-04, 3d
     cosmology-consciousness   :2025-08-07, 3d
     
-    section Walidacja
+    section Validation
     cross-domain-tests        :2025-08-10, 2d
     integration-tests         :2025-08-12, 2d
     final-review              :2025-08-14, 1d
     
-    section Przejście
+    section Transition
     phase-5-preparation       :2025-08-15, 1d
 ```
 
-## Diagram 7: Hierarchia Abstrakcji
+## Diagram 7: Abstraction Hierarchy
 
 ```mermaid
 graph TD
-    subgraph "Poziom Kosmologiczny"
-        C1[Wszechświat]
-        C2[Czarne Dziury]
-        C3[Entropia Kosmiczna]
+    subgraph "Cosmological Level"
+        C1[Universe]
+        C2[Black Holes]
+        C3[Cosmic Entropy]
     end
     
-    subgraph "Poziom Biologiczny"
-        B1[Organizmy]
-        B2[Komórki]
-        B3[Molekuły]
+    subgraph "Biological Level"
+        B1[Organisms]
+        B2[Cells]
+        B3[Molecules]
     end
     
-    subgraph "Poziom Kwantowy"
-        Q1[Fale Materii]
-        Q2[Splątanie]
-        Q3[Korelacje]
+    subgraph "Quantum Level"
+        Q1[Matter Waves]
+        Q2[Entanglement]
+        Q3[Correlations]
     end
     
-    subgraph "Poziom Matematyczny"
-        M1[Tensor MEIC]
-        M2[Holografia]
-        M3[Symetrie]
+    subgraph "Mathematical Level"
+        M1[MEIC Tensor]
+        M2[Holography]
+        M3[Symmetries]
     end
     
-    subgraph "Poziom Filozoficzny"
-        P1[Interfejs Świadomości]
-        P2[Informacja Fundamentalna]
-        P3[Jedność Doświadczenia]
+    subgraph "Philosophical Level"
+        P1[Consciousness Interface]
+        P2[Fundamental Information]
+        P3[Unity of Experience]
     end
     
     P1 -.-> M1
@@ -257,29 +257,29 @@ graph TD
     B3 -.-> C3
 ```
 
-## Diagram 8: System Testów Integracyjnych
+## Diagram 8: Integration Testing System
 
 ```mermaid
 graph TD
     subgraph "Test Suite"
-        T1[Testy Tensora MEIC]
-        T2[Testy Holografii]
-        T3[Testy Cross-Domain]
-        T4[Testy Skalowania]
+        T1[MEIC Tensor Tests]
+        T2[Holography Tests]
+        T3[Cross-Domain Tests]
+        T4[Scaling Tests]
     end
     
-    subgraph "Walidacja"
-        V1[Spójność Matematyczna]
-        V2[Zgodność z Fizyką]
-        V3[Zgodność z Biologią]
-        V4[Zgodność z Kosmologią]
+    subgraph "Validation"
+        V1[Mathematical Consistency]
+        V2[Physics Compatibility]
+        V3[Biology Compatibility]
+        V4[Cosmology Compatibility]
     end
     
-    subgraph "Raporty"
-        R1[Raport Matematyczny]
-        R2[Raport Fizyczny]
-        R3[Raport Biologiczny]
-        R4[Raport Integracyjny]
+    subgraph "Reports"
+        R1[Mathematical Report]
+        R2[Physics Report]
+        R3[Biology Report]
+        R4[Integration Report]
     end
     
     T1 --> V1
@@ -296,20 +296,20 @@ graph TD
     V4 --> R4
 ```
 
-## Użycie Diagramów
+## Diagram Usage
 
-### W implementacji:
-1. **Diagram 1**: Wykorzystaj do zrozumienia przepływu między fazami
-2. **Diagram 2**: Wykorzystaj do projektowania przepływu danych
-3. **Diagram 3**: Wykorzystaj do synchronizacji punktów
-4. **Diagram 4**: Wykorzystaj do implementacji tensora MEIC
-5. **Diagram 5**: Wykorzystaj do procesu walidacji
-6. **Diagram 6**: Wykorzystaj do zarządzania timeline
-7. **Diagram 7**: Wykorzystaj do zrozumienia hierarchii
-8. **Diagram 8**: Wykorzystaj do systemu testów
+### In implementation:
+1. **Diagram 1**: Use to understand flow between phases
+2. **Diagram 2**: Use to design data flow
+3. **Diagram 3**: Use for synchronization points
+4. **Diagram 4**: Use for MEIC tensor implementation
+5. **Diagram 5**: Use for validation process
+6. **Diagram 6**: Use for timeline management
+7. **Diagram 7**: Use to understand hierarchy
+8. **Diagram 8**: Use for testing system
 
-### Format implementacji:
-- Wszystkie diagramy są w formacie Mermaid
-- Można je renderować w Markdown
-- Kompatybilne z GitHub i VS Code
-- Można eksportować do PNG/SVG
+### Implementation format:
+- All diagrams are in Mermaid format
+- Can be rendered in Markdown
+- Compatible with GitHub and VS Code
+- Can be exported to PNG/SVG
